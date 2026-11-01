@@ -818,7 +818,7 @@ def raiz_aponta_para_outro_projeto(a: Ambiente):
                                "simular --raiz", env, False)
     assert code == 0 and "PRONTO para a pessoa aprovar" in out, out + err
     code, out, err = a._correr(base + [str(AQUI / "rotina.py"), "mostrar", "--raiz", str(a.projeto), "--marca", "teste"], "rotina --raiz", env, False)
-    assert code == 0 and "--raiz" in out and str(a.projeto) in out, out
+    assert code == 0 and "--raiz" in out and str(Path(a.projeto).resolve()) in out, out
     code, out, err = a._correr(base + [str(AQUI / "metricas.py"), "coletar", "--simular", "--raiz", str(a.projeto), "--marca", "teste"],
                                "metricas --raiz", env, True)
     assert code == 0 and "nenhum arquivo foi gravado" in out, out + err

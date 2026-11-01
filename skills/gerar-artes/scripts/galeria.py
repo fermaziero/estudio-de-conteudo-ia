@@ -130,7 +130,7 @@ PAGINA = Template("""<!doctype html>
 <div><h1>Artes do lote $lote</h1><p class="sub">Marca: $marca. $resumo</p></div>
 <button class="botao" id="tema" type="button">Tema: automático</button>
 </div>
-<div class="como"><strong>Como aprovar</strong>Esta página só mostra as artes: ela não aprova nem publica nada. Para aprovar, volte ao chat e diga qual post você aprova (por exemplo: "aprovo o post $exemplo"). Para pedir mudanças, descreva o que ajustar. Clique numa arte para ampliar.</div>
+<div class="como"><strong>Como aprovar</strong>Esta página só mostra as artes: ela não aprova nem publica nada. Gostou? Volte ao chat e diga "pode publicar $exemplo". O agente confere tudo e abre uma janela no seu computador para você confirmar com um clique: só então a aprovação vale. Para pedir mudanças, descreva o que ajustar. Clique numa arte para ampliar.</div>
 $posts
 <p class="rodape">Gerada em $quando pela skill gerar-artes. Se as imagens não aparecerem, mantenha este arquivo dentro da pasta do lote, ao lado da pasta artes/.</p>
 </main>
@@ -260,7 +260,8 @@ def gerar(pasta_marca: Path, nome_marca: str, nome_lote: str, pasta_lote: Path) 
         resumo += ": " + ", ".join(f"{n} {STATUS_ROTULO.get(s, s).lower()}" for s, n in contagem.items())
     pagina = PAGINA.substitute(
         lote=_e(nome_lote), marca=_e(nome_marca), resumo=_e(resumo), css=CSS, js=JS,
-        exemplo=_e(next(iter(posts), "id-do-post")), posts="\n".join(blocos) or '<div class="vazio">Este lote não tem posts.</div>',
+        exemplo=_e(next((pid for pid, (_, p) in posts.items() if p.get("status") == "arte_pronta"),
+                        next(iter(posts), "id-do-post"))), posts="\n".join(blocos) or '<div class="vazio">Este lote não tem posts.</div>',
         quando=_e(datetime.now().strftime("%d/%m/%Y às %H:%M")),
     )
     destino = pasta_lote / "galeria.html"
