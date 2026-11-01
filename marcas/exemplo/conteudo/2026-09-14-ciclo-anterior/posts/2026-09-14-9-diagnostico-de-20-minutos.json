@@ -1,0 +1,97 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-9-diagnostico-de-20-minutos",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "O que levar para a conversa de diagnóstico",
+  "pilar": "ofertas",
+  "formato": "post_unico",
+  "proporcao": "4:5",
+  "etapa_funil": "conversao",
+  "objetivo": "Quem pensa em falar com o escritório sabe o que anotar antes da conversa de 20 minutos e como chamar no direct.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do serviço \"Conversa de diagnóstico\" (marca.md, O que oferece, item 4).",
+  "chamada": "Chame no direct e diga que quer a conversa de diagnóstico.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Anote três coisas antes da sua conversa de diagnóstico.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a frase: Anote três coisas antes da sua conversa de diagnóstico.",
+      "fonte_interna": "marca.md, O que oferece, item 4: conversa de diagnóstico de 20 minutos (exemplo fictício)."
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Anote três coisas antes da sua conversa de diagnóstico.\n\nA conversa de diagnóstico dura 20 minutos e serve para entender a situação da sua empresa. Para aproveitar melhor, escreva antes:\n- o que a sua empresa faz;\n- como ela recebe dos clientes;\n- qual é a sua maior dúvida hoje.\n\nCada empresa é um caso, e é na conversa que a gente vê o seu. Sem enrolação.\n\nChame no direct e diga que quer a conversa de diagnóstico.",
+  "hashtags": [
+    "contabilidade",
+    "pequenasempresas"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "marca.md, O que oferece, item 4: conversa de diagnóstico de 20 minutos, para entender a situação da empresa (exemplo fictício).",
+    "As três anotações sugeridas foram escritas para o post; não são exigência do serviço.",
+    "regras.md: cada empresa é um caso; sem orientação individual por post."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-10-20",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: o post não cita custo, forma de atendimento nem resultado da conversa.",
+      "A chamada é de conversão e usa o direct, que está em Chamadas disponíveis (marca.md)."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-10-19",
+      "evento": "Rascunho criado a partir da pauta 9 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-19",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-20",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-21",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-10-22",
+      "evento": "artes geradas: 1 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-10-22T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-9-diagnostico-de-20-minutos\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-10-23T18:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-12/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-9-diagnostico-de-20-minutos",
+    "data": "2026-10-22T20:30:00-03:00",
+    "hash": "6488f9a9cb2175d3358edcd761a6ae34d39f3c121a5191d62b7141b3ed726748"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-12",
+    "permalink": "https://exemplo.invalid/p/ficticio-12/",
+    "publicado_em": "2026-10-23T18:00:00-03:00"
+  }
+}

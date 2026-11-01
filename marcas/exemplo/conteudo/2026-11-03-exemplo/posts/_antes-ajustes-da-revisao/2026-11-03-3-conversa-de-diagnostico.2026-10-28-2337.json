@@ -1,0 +1,67 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-11-03-3-conversa-de-diagnostico",
+  "lote": "2026-11-03-exemplo",
+  "titulo_interno": "Conversa de diagnóstico de 20 minutos",
+  "pilar": "ofertas",
+  "formato": "post_unico",
+  "proporcao": "4:5",
+  "etapa_funil": "conversao",
+  "objetivo": "Quem tem dúvida sobre o regime de imposto da empresa sabe que existe uma conversa de 20 minutos para tirá-la e como começar.",
+  "de_onde_vem": "Pauta 3 do lote. Vem do serviço \"Conversa de diagnóstico\" (marca.md, O que oferece, item 4) e da dor \"dúvida se o regime tributário atual é o melhor\" (marca.md, Para quem). Exemplo fictício.",
+  "chamada": "Fale com a gente no WhatsApp e conte o que a sua empresa faz.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Dúvida sobre o regime de imposto? Converse com a gente.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Arte em fundo claro com o texto: Dúvida sobre o regime de imposto? Converse com a gente.",
+      "fonte_interna": "marca.md: O que oferece, item 4 (conversa de diagnóstico), e Para quem (dúvida sobre o regime tributário). Exemplo fictício."
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Dúvida se o regime de imposto da sua empresa é o certo? Você não precisa decidir isso sozinho.\n\nA gente tem uma conversa de diagnóstico de 20 minutos. Você conta como a sua empresa funciona, a gente entende a situação e diz o que o escritório pode fazer por ela, sem enrolação.\n\nCada empresa é um caso. Por isso um post não consegue dizer qual regime serve para você: isso a gente só vê depois de conhecer o seu negócio.\n\nRespondemos no WhatsApp em até 1 dia útil.\n\nFale com a gente no WhatsApp e conte o que a sua empresa faz.",
+  "hashtags": ["contabilidade", "pequenasempresas"],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "marca.md, O que oferece, item 4: conversa de diagnóstico de 20 minutos, para entender a situação da empresa e dizer o que o escritório pode fazer (exemplo fictício).",
+    "marca.md, Diferenciais e provas autorizadas: resposta no WhatsApp em até 1 dia útil, informada pela pessoa em 2026-10-20 (exemplo fictício).",
+    "regras.md: sem promessa de redução de imposto e sem orientação individual por post."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-10-28",
+    "veredito": "ajustar",
+    "pontos": [
+      "1. Slide 1 (capa) e texto_alternativo: a arte tem uma pergunta e um convite (\"Dúvida sobre o regime de imposto? Converse com a gente.\"). A regra de 2026-10-22 em padrao-visual.md e o feedback (\"Quero só a pergunta.\") pedem só a pergunta ou só a chamada, sem apoio. Deixe só a pergunta (por exemplo, \"Dúvida sobre o regime de imposto da sua empresa?\") e mantenha o convite no fim da legenda. A pauta aprovada trazia o gancho com os dois; se a pessoa quiser mantê-lo, ela confirma e a exceção é registrada em padrao-visual.md e feedback.md.",
+      "2. Legenda, 4º parágrafo: \"Respondemos no WhatsApp em até 1 dia útil.\" muda a voz; o resto do texto fala em \"a gente\". Troque por \"A gente responde no WhatsApp em até 1 dia útil.\"",
+      "3. Legenda, 1º parágrafo: \"regime de imposto\" é a ideia central do post e não é explicado em lugar nenhum (marca.md usa \"regime tributário\"). Explique em meia frase, por exemplo \"O regime é a forma como a empresa paga imposto.\", e escolha um dos dois termos para usar no post todo.",
+      "4. Chamada (campo chamada e fim da legenda): \"Fale com a gente no WhatsApp\" não diz como chegar lá, e quem lê no Instagram não sabe onde clicar nem qual número usar. A pessoa confirma qual caminho existe hoje (número no perfil, link da bio) e a chamada passa a dizê-lo, sem pôr link na legenda."
+    ]
+  },
+  "status": "em_revisao",
+  "historico": [
+    {
+      "data": "2026-10-28",
+      "evento": "Rascunho criado a partir da pauta 3 (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Revisão independente: ajustar",
+      "por": "revisar-conteudo"
+    }
+  ],
+  "aprovacao": null,
+  "agendado_para": null,
+  "publicacao": null
+}

@@ -1,0 +1,11 @@
+publicado_em,post_id,lote,formato,media_id,permalink,hash
+2026-09-16T18:00:00-03:00,2026-09-14-1-prazos-do-mei,2026-09-14-ciclo-anterior,carrossel,ficticio-01,https://exemplo.invalid/p/ficticio-01/,4f5ef6e87391bd37e2ed122cd26f6663ff5c89165e028039f3acf1d0e47e9100
+2026-09-18T12:00:00-03:00,2026-09-14-2-bastidores-do-fechamento,2026-09-14-ciclo-anterior,post_unico,ficticio-02,https://exemplo.invalid/p/ficticio-02/,31a9b50c359740c8add90db7530ef5e5df1865fdf523b01bd7a0cc658e489c33
+2026-09-25T18:00:00-03:00,2026-09-14-3-conversa-de-diagnostico,2026-09-14-ciclo-anterior,post_unico,ficticio-04,https://exemplo.invalid/p/ficticio-04/,c2f5523a7880e408efdc35493c3fae35a01e95f485fae6803ad416d00f3ef83a
+2026-09-29T18:00:00-03:00,2026-09-14-4-erros-no-simples,2026-09-14-ciclo-anterior,carrossel,ficticio-05,https://exemplo.invalid/p/ficticio-05/,c5f7ea0b03fe151eb49962d8d2326753e552f23abe41f922f10e43bff3707a69
+2026-10-06T18:00:00-03:00,2026-09-14-5-ler-a-guia-de-imposto,2026-09-14-ciclo-anterior,carrossel,ficticio-07,https://exemplo.invalid/p/ficticio-07/,57f63e6d37353db3f6448324b3da0a4fd47423d6777290afa01c890b0383aa8c
+2026-10-09T12:00:00-03:00,2026-09-14-6-equipe-no-fechamento,2026-09-14-ciclo-anterior,post_unico,ficticio-08,https://exemplo.invalid/p/ficticio-08/,f12b7c854b1ac60ed01a20fd261a6dca6fda9c9929f0eeda7296b692cbd26d7b
+2026-10-13T18:00:00-03:00,2026-09-14-7-antes-de-abrir-a-empresa,2026-09-14-ciclo-anterior,carrossel,ficticio-09,https://exemplo.invalid/p/ficticio-09/,b5edebeffe70377ad3c231175a8ea3c0f9ffaa3d1ac010cc055149dd16e62572
+2026-10-20T18:00:00-03:00,2026-09-14-8-prazos-de-novembro,2026-09-14-ciclo-anterior,carrossel,ficticio-11,https://exemplo.invalid/p/ficticio-11/,cc2cb26b973faf599946310b4ede8c7202d391ee71ad66eeb03314ab1a46e8d7
+2026-10-23T18:00:00-03:00,2026-09-14-9-diagnostico-de-20-minutos,2026-09-14-ciclo-anterior,post_unico,ficticio-12,https://exemplo.invalid/p/ficticio-12/,6488f9a9cb2175d3358edcd761a6ae34d39f3c121a5191d62b7141b3ed726748
+2026-10-25T18:00:00-03:00,2026-09-14-10-faturamento-e-lucro,2026-09-14-ciclo-anterior,carrossel,ficticio-13,https://exemplo.invalid/p/ficticio-13/,4cc046c03af41a2f94ccacf97649dc1834667b8646ef87d4a9bb104dd35fadc5

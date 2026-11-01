@@ -1,0 +1,115 @@
+{
+  "versao_esquema": 1,
+  "id": "<AAAA-MM-DD>-<n>-<slug-curto>",
+  "lote": "<AAAA-MM-DD-slug do lote>",
+  "titulo_interno": "<nome curto para a pessoa reconhecer o post>",
+  "pilar": "<id de um pilar de estrategia.json>",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "<atracao, relacionamento ou conversao>",
+  "objetivo": "<o que quem lê leva do post>",
+  "de_onde_vem": "<origem da pauta: referência, pergunta de cliente, resultado anterior>",
+  "chamada": "<a única chamada para ação>",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "<até 12 palavras; promete só o que o post entrega>",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "<descrição do slide para quem usa leitor de tela>",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "<uma ideia, em frase completa>",
+      "texto": "<explicação curta que completa o título>",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "<descrição do slide>",
+      "fonte_interna": "<de onde saiu o que o slide afirma>"
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "lista",
+      "titulo": "<o que a lista mostra>",
+      "texto": "",
+      "itens": ["<item 1>", "<item 2>", "<item 3>"],
+      "imagem": null,
+      "texto_alternativo": "<descrição do slide>",
+      "fonte_interna": ""
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "cartoes",
+      "titulo": "<o que os cartões comparam ou separam>",
+      "texto": "",
+      "itens": ["<cartão 1>", "<cartão 2>", "<cartão 3>"],
+      "imagem": null,
+      "texto_alternativo": "<descrição do slide>",
+      "fonte_interna": ""
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "citacao",
+      "titulo": "<frase de destaque da própria marca, a lição em uma frase>",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "<descrição do slide>",
+      "fonte_interna": ""
+    },
+    {
+      "n": 6,
+      "papel": "conteudo",
+      "layout": "imagem",
+      "titulo": "<título curto que a imagem ajuda a entender>",
+      "texto": "",
+      "itens": [],
+      "imagem": {
+        "tipo": "gerada",
+        "arquivo": "",
+        "descricao": "<o que a imagem mostra>",
+        "prompt": "<cena, enquadramento e luz da imagem>. Sem texto, sem letras, sem logos."
+      },
+      "texto_alternativo": "<descrição do slide e da imagem>",
+      "fonte_interna": ""
+    },
+    {
+      "n": 7,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "<a chamada, com cerca de 8 palavras>",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "<descrição do slide>",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "<primeira linha: o gancho, legível antes do \"mais\">\n\n<corpo: contexto, um dado ou exemplo, a lição>\n\n<a mesma chamada do campo chamada>",
+  "hashtags": [],
+  "fontes": [],
+  "fontes_legenda_internas": [],
+  "confirmar": [],
+  "revisao": null,
+  "status": "rascunho",
+  "historico": [
+    {
+      "data": "<AAAA-MM-DD>",
+      "evento": "Rascunho criado a partir da pauta <número>",
+      "por": "criar-conteudo"
+    }
+  ],
+  "aprovacao": null,
+  "agendado_para": null,
+  "publicacao": null
+}

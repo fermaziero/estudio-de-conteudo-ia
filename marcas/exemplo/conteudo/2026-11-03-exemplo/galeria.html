@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Artes do lote 2026-11-03-exemplo</title>
+<style>
+:root{--fundo:#f5f4f0;--cartao:#ffffff;--texto:#18212b;--suave:#5b6674;--linha:#e2dfd7;--destaque:#0f7b6c;--sobre-destaque:#ffffff;
+--alerta-fundo:#fff3cf;--alerta-borda:#e8c25a;--alerta-texto:#5e4300;--erro-fundo:#fde4e1;--erro-borda:#e4877d;--erro-texto:#7a1d14;
+--ok-fundo:#dff3e6;--ok-texto:#14532d;--info-fundo:#e6ecff;--info-texto:#1d3a9e;--sombra:0 1px 2px rgba(20,30,40,.08),0 6px 20px rgba(20,30,40,.06)}
+@media (prefers-color-scheme:dark){:root:not([data-tema="claro"]){--fundo:#0e1318;--cartao:#171e26;--texto:#e9eef4;--suave:#9aa6b4;--linha:#27313c;--destaque:#7fa0ff;--sobre-destaque:#0e1318;
+--alerta-fundo:#3a2f0b;--alerta-borda:#8a6d1c;--alerta-texto:#f5dc92;--erro-fundo:#3b1815;--erro-borda:#8f3b33;--erro-texto:#ffc9c3;
+--ok-fundo:#12301f;--ok-texto:#a6e6bf;--info-fundo:#17244d;--info-texto:#b8c9ff;--sombra:none}}
+:root[data-tema="escuro"]{--fundo:#0e1318;--cartao:#171e26;--texto:#e9eef4;--suave:#9aa6b4;--linha:#27313c;--destaque:#7fa0ff;--sobre-destaque:#0e1318;
+--alerta-fundo:#3a2f0b;--alerta-borda:#8a6d1c;--alerta-texto:#f5dc92;--erro-fundo:#3b1815;--erro-borda:#8f3b33;--erro-texto:#ffc9c3;
+--ok-fundo:#12301f;--ok-texto:#a6e6bf;--info-fundo:#17244d;--info-texto:#b8c9ff;--sombra:none}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fundo);color:var(--texto);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+.pagina{max-width:1180px;margin:0 auto;padding:24px 16px 64px}
+.topo{display:flex;gap:16px;align-items:flex-start;justify-content:space-between;flex-wrap:wrap}
+h1{font-size:1.6rem;line-height:1.2;margin:0 0 4px}
+.sub{color:var(--suave);margin:0;font-size:.95rem}
+button{font:inherit;color:inherit;cursor:pointer}
+.botao{background:var(--cartao);border:1px solid var(--linha);border-radius:999px;padding:6px 14px;font-size:.9rem}
+.botao:hover{border-color:var(--destaque)}
+.botao:focus-visible,.slide:focus-visible,summary:focus-visible{outline:3px solid var(--destaque);outline-offset:2px}
+.como{background:var(--info-fundo);color:var(--info-texto);border-radius:14px;padding:14px 18px;margin:20px 0 8px;font-size:.95rem}
+.como strong{display:block;margin-bottom:2px}
+.post{background:var(--cartao);border:1px solid var(--linha);border-radius:18px;padding:20px;margin:24px 0;box-shadow:var(--sombra)}
+.post h2{font-size:1.25rem;margin:0 0 6px;line-height:1.25}
+.id{font:.8rem ui-monospace,SFMono-Regular,Consolas,monospace;color:var(--suave);margin:6px 0 0;word-break:break-all}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-size:.78rem;border:1px solid var(--linha);border-radius:999px;padding:2px 10px;color:var(--suave);background:transparent}
+.chip.status{font-weight:600;border-color:transparent}
+.s-texto_aprovado,.s-em_revisao,.s-rascunho{background:var(--info-fundo);color:var(--info-texto)}
+.s-arte_pronta,.s-aprovado,.s-agendado{background:var(--ok-fundo);color:var(--ok-texto)}
+.s-publicado{background:var(--linha);color:var(--texto)}
+.s-erro{background:var(--erro-fundo);color:var(--erro-texto)}
+.tira{display:flex;gap:12px;overflow-x:auto;padding:16px 2px 10px;scroll-snap-type:x proximity}
+.slide{position:relative;flex:0 0 auto;width:236px;border:1px solid var(--linha);border-radius:12px;padding:0;background:var(--fundo);overflow:hidden;scroll-snap-align:start;line-height:0}
+.slide img{width:100%;height:auto;display:block}
+.slide .n{position:absolute;left:8px;top:8px;background:rgba(0,0,0,.62);color:#fff;font:600 .72rem/1 system-ui,sans-serif;padding:4px 7px;border-radius:999px}
+.slide .velha{position:absolute;right:8px;top:8px;background:var(--erro-fundo);color:var(--erro-texto);font:600 .68rem/1 system-ui,sans-serif;padding:4px 7px;border-radius:999px}
+.vazio{border:1px dashed var(--linha);border-radius:12px;padding:20px;color:var(--suave);margin:14px 0}
+.colunas{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:24px;margin-top:8px}
+@media (max-width:820px){.colunas{grid-template-columns:1fr}.slide{width:200px}}
+h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--suave);margin:18px 0 6px}
+.chamada{font-weight:600;margin:0}
+pre.legenda{white-space:pre-wrap;word-wrap:break-word;font:inherit;background:var(--fundo);border:1px solid var(--linha);border-radius:12px;padding:12px 14px;margin:6px 0 0;max-height:360px;overflow:auto}
+.linha-titulo{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.alerta,.erro{border-radius:12px;padding:10px 14px;margin:10px 0;font-size:.93rem}
+.alerta{background:var(--alerta-fundo);border:1px solid var(--alerta-borda);color:var(--alerta-texto)}
+.erro{background:var(--erro-fundo);border:1px solid var(--erro-borda);color:var(--erro-texto)}
+.alerta strong,.erro strong{display:block}
+.alerta ul,.erro ul,.lista ul{margin:6px 0 0;padding-left:20px}
+details{margin-top:12px;border-top:1px solid var(--linha);padding-top:8px}
+summary{cursor:pointer;font-weight:600;font-size:.93rem}
+.lista{font-size:.92rem;color:var(--suave)}
+.lista a{color:var(--destaque)}
+dialog{border:0;padding:0;background:transparent;max-width:100vw;max-height:100vh;width:100vw;height:100vh}
+dialog::backdrop{background:rgba(5,8,12,.88)}
+.visor{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;gap:10px;padding:12px}
+.visor img{max-width:min(96vw,720px);max-height:82vh;width:auto;height:auto;border-radius:10px;background:#fff}
+.visor .barra{display:flex;gap:8px;align-items:center;color:#fff;font-size:.9rem}
+.visor .botao{background:rgba(255,255,255,.12);color:#fff;border-color:rgba(255,255,255,.3)}
+.rodape{color:var(--suave);font-size:.85rem;margin-top:32px}
+</style>
+</head>
+<body>
+<main class="pagina">
+<div class="topo">
+<div><h1>Artes do lote 2026-11-03-exemplo</h1><p class="sub">Marca: exemplo. 2 post(s): 1 texto aprovado, 1 arte pronta</p></div>
+<button class="botao" id="tema" type="button">Tema: automático</button>
+</div>
+<div class="como"><strong>Como aprovar</strong>Esta página só mostra as artes: ela não aprova nem publica nada. Para aprovar, volte ao chat e diga qual post você aprova (por exemplo: "aprovo o post 2026-11-03-1-contas-separadas"). Para pedir mudanças, descreva o que ajustar. Clique numa arte para ampliar.</div>
+<article class="post" id="post-2026-11-03-1-contas-separadas">
+<h2>Separe a conta da empresa da sua</h2>
+<div class="chips"><span class="chip status s-texto_aprovado">Texto aprovado</span><span class="chip">carrossel</span><span class="chip">4:5</span><span class="chip">pilar: educativo</span><span class="chip">Atração</span></div>
+<p class="id">2026-11-03-1-contas-separadas</p>
+<div class="tira"><button class="slide" type="button" data-grande="artes/2026-11-03-1-contas-separadas/01.png?v=abbd67b1" data-alt="Capa em fundo claro com a pergunta: Você mistura a conta da empresa com a sua?"><img src="artes/2026-11-03-1-contas-separadas/01.png?v=abbd67b1" alt="Capa em fundo claro com a pergunta: Você mistura a conta da empresa com a sua?" loading="lazy"><span class="n">1</span></button><button class="slide" type="button" data-grande="artes/2026-11-03-1-contas-separadas/02.png?v=235135b4" data-alt="Slide de texto: Misturar as contas esconde o resultado de verdade. Quando tudo passa pela mesma conta, você não sabe quanto a empresa ganhou nem quanto pode tirar dela sem apertar o caixa."><img src="artes/2026-11-03-1-contas-separadas/02.png?v=235135b4" alt="Slide de texto: Misturar as contas esconde o resultado de verdade. Quando tudo passa pela mesma conta, você não sabe quanto a empresa ganhou nem quanto pode tirar dela sem apertar o caixa." loading="lazy"><span class="n">2</span></button><button class="slide" type="button" data-grande="artes/2026-11-03-1-contas-separadas/03.png?v=f13bb7dd" data-alt="Quatro cartões com sinais de contas misturadas: pagar o mercado com o cartão da empresa; receber de cliente por Pix na conta pessoal; não saber quanto tirou da empresa no mês; pegar dinheiro da empresa sem anotar."><img src="artes/2026-11-03-1-contas-separadas/03.png?v=f13bb7dd" alt="Quatro cartões com sinais de contas misturadas: pagar o mercado com o cartão da empresa; receber de cliente por Pix na conta pessoal; não saber quanto tirou da empresa no mês; pegar dinheiro da empresa sem anotar." loading="lazy"><span class="n">3</span></button><button class="slide" type="button" data-grande="artes/2026-11-03-1-contas-separadas/04.png?v=c97bd34d" data-alt="Lista numerada com os três passos: abrir uma conta só da empresa; definir quanto tirar por mês e transferir da conta da empresa para a sua sempre na mesma data; guardar notas fiscais e comprovantes pelo prazo da lei, que o contador informa."><img src="artes/2026-11-03-1-contas-separadas/04.png?v=c97bd34d" alt="Lista numerada com os três passos: abrir uma conta só da empresa; definir quanto tirar por mês e transferir da conta da empresa para a sua sempre na mesma data; guardar notas fiscais e comprovantes pelo prazo da lei, que o contador informa." loading="lazy"><span class="n">4</span></button><button class="slide" type="button" data-grande="artes/2026-11-03-1-contas-separadas/05.png?v=b17eef07" data-alt="Frase em destaque: A conta da empresa é da empresa; a sua conta é sua."><img src="artes/2026-11-03-1-contas-separadas/05.png?v=b17eef07" alt="Frase em destaque: A conta da empresa é da empresa; a sua conta é sua." loading="lazy"><span class="n">5</span></button><button class="slide" type="button" data-grande="artes/2026-11-03-1-contas-separadas/06.png?v=8d3fe198" data-alt="Uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo, sobre uma mesa de madeira clara. No fim do mês, o resultado aparece. Com as contas separadas, o relatório mensal que a gente entrega mostra o que é da empresa, em linguagem simples."><img src="artes/2026-11-03-1-contas-separadas/06.png?v=8d3fe198" alt="Uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo, sobre uma mesa de madeira clara. No fim do mês, o resultado aparece. Com as contas separadas, o relatório mensal que a gente entrega mostra o que é da empresa, em linguagem simples." loading="lazy"><span class="n">6</span></button><button class="slide" type="button" data-grande="artes/2026-11-03-1-contas-separadas/07.png?v=5e2f6509" data-alt="Último slide com a chamada: Salve este post para separar as suas contas."><img src="artes/2026-11-03-1-contas-separadas/07.png?v=5e2f6509" alt="Último slide com a chamada: Salve este post para separar as suas contas." loading="lazy"><span class="n">7</span></button></div>
+<div class="colunas">
+<section>
+<h3>Chamada</h3><p class="chamada">Salve este post para consultar quando for separar as contas da sua empresa.</p>
+<div class="linha-titulo"><h3>Legenda</h3><button class="botao" type="button" data-copiar="leg-2026-11-03-1-contas-separadas">Copiar legenda</button></div>
+<pre class="legenda" id="leg-2026-11-03-1-contas-separadas">Você mistura a conta da empresa com a sua? Isso esconde o resultado de verdade do seu negócio.
+
+Com tudo na mesma conta, não dá para saber quanto a empresa ganhou. Nem quanto você pode tirar dela sem apertar o caixa.
+
+Na prática, são três passos:
+- uma conta só da empresa;
+- um valor combinado para você tirar por mês;
+- um lugar para guardar notas fiscais e comprovantes.
+
+O valor certo depende do caso da sua empresa, e o contador ajuda a definir.
+
+Salve este post para consultar quando for separar as contas da sua empresa.
+
+#contabilidade #mei #gestaofinanceira</pre>
+</section>
+<section>
+<div class="erro"><strong>Pendências: o post não pode ser publicado até resolver</strong><ul><li>NÃO VERIFICADO: a exigência legal de guardar notas fiscais e comprovantes por um prazo (slide 4, terceiro passo) — conferir na página oficial da Receita Federal, registrar a fonte em fontes e só então publicar</li></ul></div><div class="alerta"><strong>Atenção nas artes</strong><ul><li>Slide 6: a imagem prevista não foi encontrada (Uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo, sobre uma mesa de madeira clara). O slide saiu com fundo sólido; gere o prompt, crie a imagem e importe (ou indique a foto aprovada).</li></ul></div><details><summary>Revisão independente: aprovar (2026-10-28)</summary><div class="lista"><ul><li>Pendência que bloqueia a publicação (não o texto): confirmar[] tem 1 item aberto, a exigência legal de guardar notas fiscais e comprovantes por um prazo (slide 4, terceiro passo). Para liberar: abra a página oficial e registre em fontes[], ou, se a pessoa preferir, troque &quot;pelo prazo da lei&quot; por &quot;O seu contador diz por quanto tempo.&quot; e tire o item de confirmar[].</li><li>Sugestão, slide 6, apoio: &quot;mostra o que é da empresa&quot; ficou vago; &quot;mostra só o que é da empresa&quot; ou &quot;mostra o resultado da empresa&quot; diz mais e combina com o título.</li><li>Sugestão, slide 6, texto_alternativo: tem três frases (imagem, título e apoio) e o checklist pede uma ou duas; una título e apoio numa frase só.</li></ul></div></details>
+<details><summary>Origem e fontes (uso interno, não vão para a arte nem para a legenda)</summary><div class="lista"><p><strong>Objetivo:</strong> Quem lê reconhece os sinais de que mistura a conta pessoal com a da empresa e sai com três passos para separar.</p><p><strong>De onde vem a pauta:</strong> Pauta 1 do lote. Vem do movimento &quot;Publicar 3 carrosséis sobre as dúvidas que mais aparecem na rotina dos clientes&quot; (estrategia.json) e da dor &quot;misturar a conta pessoal com a da empresa&quot; (marca.md). Ideia do agente, sem leitura de resultados. Exemplo fictício.</p><p>Sem fontes registradas.</p></div></details>
+<details><summary>Texto alternativo de cada slide</summary><div class="lista"><ul><li>Slide 1: Capa em fundo claro com a pergunta: Você mistura a conta da empresa com a sua?</li><li>Slide 2: Slide de texto: Misturar as contas esconde o resultado de verdade. Quando tudo passa pela mesma conta, você não sabe quanto a empresa ganhou nem quanto pode tirar dela sem apertar o caixa.</li><li>Slide 3: Quatro cartões com sinais de contas misturadas: pagar o mercado com o cartão da empresa; receber de cliente por Pix na conta pessoal; não saber quanto tirou da empresa no mês; pegar dinheiro da empresa sem anotar.</li><li>Slide 4: Lista numerada com os três passos: abrir uma conta só da empresa; definir quanto tirar por mês e transferir da conta da empresa para a sua sempre na mesma data; guardar notas fiscais e comprovantes pelo prazo da lei, que o contador informa.</li><li>Slide 5: Frase em destaque: A conta da empresa é da empresa; a sua conta é sua.</li><li>Slide 6: Uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo, sobre uma mesa de madeira clara. No fim do mês, o resultado aparece. Com as contas separadas, o relatório mensal que a gente entrega mostra o que é da empresa, em linguagem simples.</li><li>Slide 7: Último slide com a chamada: Salve este post para separar as suas contas.</li></ul></div></details>
+</section>
+</div>
+</article>
+<article class="post" id="post-2026-11-03-3-conversa-de-diagnostico">
+<h2>Conversa de diagnóstico de 20 minutos</h2>
+<div class="chips"><span class="chip status s-arte_pronta">Arte pronta</span><span class="chip">post_unico</span><span class="chip">4:5</span><span class="chip">pilar: ofertas</span><span class="chip">Conversão</span></div>
+<p class="id">2026-11-03-3-conversa-de-diagnostico</p>
+<div class="tira"><button class="slide" type="button" data-grande="artes/2026-11-03-3-conversa-de-diagnostico/01.png?v=dadd8435" data-alt="Arte em fundo claro com a pergunta: Dúvida sobre o regime tributário da sua empresa?"><img src="artes/2026-11-03-3-conversa-de-diagnostico/01.png?v=dadd8435" alt="Arte em fundo claro com a pergunta: Dúvida sobre o regime tributário da sua empresa?" loading="lazy"><span class="n">1</span></button></div>
+<div class="colunas">
+<section>
+<h3>Chamada</h3><p class="chamada">Chame no direct e conte o que a sua empresa faz.</p>
+<div class="linha-titulo"><h3>Legenda</h3><button class="botao" type="button" data-copiar="leg-2026-11-03-3-conversa-de-diagnostico">Copiar legenda</button></div>
+<pre class="legenda" id="leg-2026-11-03-3-conversa-de-diagnostico">Dúvida se o regime tributário da sua empresa é o certo? Você não precisa resolver isso sem ajuda.
+
+O regime tributário é a forma como a empresa paga imposto. Cada empresa é um caso, e por isso não dá para dizer, em um post, qual regime serve para você.
+
+A gente oferece uma conversa de diagnóstico de 20 minutos. Ela serve para entender a situação da sua empresa e dizer o que a gente pode fazer por você. Sem enrolação.
+
+Chame no direct e conte o que a sua empresa faz.
+
+#contabilidade #pequenasempresas</pre>
+</section>
+<section>
+<details><summary>Revisão independente: aprovar (2026-10-28)</summary><div class="lista"><ul><li>Observação para a aprovação: a capa e o canal da chamada mudaram em relação à pauta que a pessoa aprovou (a capa perdeu o convite e o WhatsApp virou direct). A explicação está em pautas.md, &quot;Ajuste na escrita&quot;; vale avisá-la ao pedir o ok do texto.</li><li>Sugestão, legenda, 3º parágrafo: a frase &quot;O que a gente faz é uma conversa de diagnóstico…&quot; tem 30 palavras e parece dizer que é só isso que o escritório faz (marca.md lista outros serviços). Algo como &quot;A gente oferece uma conversa de diagnóstico de 20 minutos. Ela serve para entender a situação da sua empresa e dizer o que a gente pode fazer por você.&quot; fica mais curto e numa voz só.</li><li>Sugestão: o post não diz se a conversa tem custo nem como ela acontece (vídeo, telefone ou presencial), e marca.md também não. Não escreva &quot;grátis&quot; nem &quot;sem compromisso&quot; sem a pessoa confirmar.</li></ul></div></details>
+<details><summary>Origem e fontes (uso interno, não vão para a arte nem para a legenda)</summary><div class="lista"><p><strong>Objetivo:</strong> Quem tem dúvida sobre o regime tributário da empresa sabe que existe uma conversa de 20 minutos para tirá-la e como começar.</p><p><strong>De onde vem a pauta:</strong> Pauta 3 do lote. Vem do serviço &quot;Conversa de diagnóstico&quot; (marca.md, O que oferece, item 4) e da dor &quot;dúvida se o regime tributário atual é o melhor&quot; (marca.md, Para quem). Exemplo fictício.</p><p>Sem fontes registradas.</p></div></details>
+<details><summary>Texto alternativo de cada slide</summary><div class="lista"><ul><li>Slide 1: Arte em fundo claro com a pergunta: Dúvida sobre o regime tributário da sua empresa?</li></ul></div></details>
+</section>
+</div>
+</article>
+<p class="rodape">Gerada em 29/10/2026 às 18:46 pela skill gerar-artes. Se as imagens não aparecerem, mantenha este arquivo dentro da pasta do lote, ao lado da pasta artes/.</p>
+</main>
+<dialog id="visor"><div class="visor"><img alt=""><div class="barra"><button class="botao" type="button" data-acao="ant">Anterior</button><span class="contagem"></span><button class="botao" type="button" data-acao="prox">Próxima</button><button class="botao" type="button" data-acao="fechar">Fechar</button></div></div></dialog>
+<script>
+(function(){
+  var raiz=document.documentElement,rotulo=document.getElementById('tema');
+  function aplicar(t){if(t==='auto'){raiz.removeAttribute('data-tema')}else{raiz.setAttribute('data-tema',t)}rotulo.textContent='Tema: '+({auto:'automático',claro:'claro',escuro:'escuro'}[t])}
+  var atual='auto';try{atual=localStorage.getItem('galeria-tema')||'auto'}catch(e){}
+  aplicar(atual);
+  rotulo.addEventListener('click',function(){var ordem=['auto','claro','escuro'];atual=ordem[(ordem.indexOf(atual)+1)%3];aplicar(atual);try{localStorage.setItem('galeria-tema',atual)}catch(e){}});
+  document.addEventListener('click',function(ev){
+    var c=ev.target.closest('[data-copiar]');
+    if(c){var alvo=document.getElementById(c.getAttribute('data-copiar'));var texto=alvo?alvo.textContent:'';
+      var ok=function(){var t=c.textContent;c.textContent='Copiado!';setTimeout(function(){c.textContent=t},1500)};
+      var plano=function(){var a=document.createElement('textarea');a.value=texto;a.style.position='fixed';a.style.opacity='0';document.body.appendChild(a);a.select();try{document.execCommand('copy');ok()}catch(e){}document.body.removeChild(a)};
+      if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(texto).then(ok,plano)}else{plano()}return}
+    var s=ev.target.closest('.slide');if(s){abrir(s)}
+  });
+  var janela=document.getElementById('visor'),img=janela.querySelector('img'),contagem=janela.querySelector('.contagem'),grupo=[],pos=0;
+  function mostrar(){var b=grupo[pos];img.src=b.getAttribute('data-grande');img.alt=b.getAttribute('data-alt')||'';contagem.textContent=(pos+1)+' de '+grupo.length}
+  function abrir(b){grupo=Array.prototype.slice.call(b.parentNode.querySelectorAll('.slide'));pos=grupo.indexOf(b);mostrar();if(janela.showModal){janela.showModal()}else{janela.setAttribute('open','')}}
+  function passo(d){pos=(pos+d+grupo.length)%grupo.length;mostrar()}
+  janela.querySelector('[data-acao=ant]').addEventListener('click',function(){passo(-1)});
+  janela.querySelector('[data-acao=prox]').addEventListener('click',function(){passo(1)});
+  janela.querySelector('[data-acao=fechar]').addEventListener('click',function(){janela.close()});
+  janela.addEventListener('click',function(ev){if(ev.target===janela||ev.target.classList.contains('visor')){janela.close()}});
+  document.addEventListener('keydown',function(ev){if(!janela.open){return}if(ev.key==='ArrowLeft'){passo(-1)}else if(ev.key==='ArrowRight'){passo(1)}});
+})();
+</script>
+</body>
+</html>

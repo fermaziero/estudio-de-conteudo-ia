@@ -1,0 +1,96 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-6-equipe-no-fechamento",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Antes de fechar o mês, a equipe pergunta o que mudou",
+  "pilar": "bastidores",
+  "formato": "post_unico",
+  "proporcao": "4:5",
+  "etapa_funil": "relacionamento",
+  "objetivo": "Quem lê entende que avisar o escritório do que mudou na empresa ajuda o fechamento e conta o que mudou nos comentários.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do pilar Bastidores (estrategia.json) e do tema \"Como é trabalhar com um contador no dia a dia\" (marca.md, Temas que domina). Nenhuma pessoa é identificada no post.",
+  "chamada": "Conte nos comentários: o que mudou na sua empresa este mês?",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "O que mudou na sua empresa este mês?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a pergunta: O que mudou na sua empresa este mês?",
+      "fonte_interna": "marca.md, Temas que domina: como é trabalhar com um contador no dia a dia (exemplo fictício)."
+    }
+  ],
+  "roteiro": null,
+  "legenda": "O que mudou na sua empresa este mês?\n\nAntes de fechar o mês, a equipe do escritório gosta de saber o que mudou: uma venda diferente, uma compra grande, alguém novo na equipe. Com essa informação, o relatório do mês conta o que aconteceu de verdade.\n\nAvisar cedo ajuda a gente a não adivinhar. E, por aqui, a resposta no WhatsApp vem em até 1 dia útil.\n\nConte nos comentários: o que mudou na sua empresa este mês?",
+  "hashtags": [
+    "contabilidade",
+    "bastidores"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "marca.md, Diferenciais e provas autorizadas: resposta no WhatsApp em até 1 dia útil (exemplo fictício); uso autorizado.",
+    "Exemplos de mudanças no mês (venda diferente, compra grande, alguém novo na equipe) escritos para o post; não são dado nem caso real (exemplo fictício)."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-10-06",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: a única prova usada (resposta em até 1 dia útil) está autorizada em marca.md.",
+      "A chamada pede comentário, que está em Chamadas disponíveis para a etapa de relacionamento."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-10-05",
+      "evento": "Rascunho criado a partir da pauta 6 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-05",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-06",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-07",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-10-08",
+      "evento": "artes geradas: 1 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-10-08T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-6-equipe-no-fechamento\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-10-09T12:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-08/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-6-equipe-no-fechamento",
+    "data": "2026-10-08T20:30:00-03:00",
+    "hash": "f12b7c854b1ac60ed01a20fd261a6dca6fda9c9929f0eeda7296b692cbd26d7b"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-08",
+    "permalink": "https://exemplo.invalid/p/ficticio-08/",
+    "publicado_em": "2026-10-09T12:00:00-03:00"
+  }
+}

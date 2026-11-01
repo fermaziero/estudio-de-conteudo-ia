@@ -1,0 +1,28 @@
+# Seus dados ficam fora do git. Só o README e a marca fictícia de exemplo são versionados.
+marcas/*
+!marcas/README.md
+!marcas/exemplo/
+
+# Credenciais (nunca dentro do projeto, mas por garantia)
+.env
+.env.*
+*.env
+credenciais*.json
+*.pem
+*.key
+credenciais*/
+segredos*/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporários e travas
+*.lock
+_tmp*/
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini

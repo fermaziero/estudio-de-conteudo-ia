@@ -1,0 +1,96 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-2-bastidores-do-fechamento",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Como a equipe prepara o relatório do mês",
+  "pilar": "bastidores",
+  "formato": "post_unico",
+  "proporcao": "4:5",
+  "etapa_funil": "relacionamento",
+  "objetivo": "Quem lê entende que o relatório do mês chega em linguagem simples e é convidado a contar a sua maior dúvida sobre impostos.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do pilar Bastidores (estrategia.json) e do diferencial \"Relatório mensal em linguagem simples, sem juridiquês\" (marca.md, Diferenciais e provas autorizadas). Nenhuma pessoa é identificada no post.",
+  "chamada": "Conte nos comentários: qual é a sua maior dúvida sobre impostos?",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Todo mês, o relatório chega em linguagem simples.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a frase: Todo mês, o relatório chega em linguagem simples.",
+      "fonte_interna": "marca.md, Diferenciais e provas autorizadas: relatório mensal em linguagem simples, sem juridiquês (exemplo fictício)."
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Todo mês, o relatório do escritório chega em linguagem simples, sem juridiquês.\n\nNo fechamento, a equipe junta as informações do mês, confere o que não bate e escreve o relatório de um jeito que você entenda sem precisar de dicionário.\n\nA ideia é que você olhe, entenda e decida. E, se ficar dúvida, a gente explica.\n\nConte nos comentários: qual é a sua maior dúvida sobre impostos?",
+  "hashtags": [
+    "contabilidade",
+    "bastidores"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "marca.md, Diferenciais e provas autorizadas: relatório mensal em linguagem simples, sem juridiquês (exemplo fictício); uso autorizado.",
+    "Descrição geral do fechamento do mês escrita para o exemplo (fictícia), a partir do pilar Bastidores (estrategia.json); sem pessoa, número ou cliente."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-09-15",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: a única prova usada está autorizada em marca.md.",
+      "Nenhuma pessoa, cliente ou número aparece no post."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-09-14",
+      "evento": "Rascunho criado a partir da pauta 2 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-09-14",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-09-15",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-09-16",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-09-17",
+      "evento": "artes geradas: 1 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-09-17T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-2-bastidores-do-fechamento\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-09-18T12:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-02/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-2-bastidores-do-fechamento",
+    "data": "2026-09-17T20:30:00-03:00",
+    "hash": "31a9b50c359740c8add90db7530ef5e5df1865fdf523b01bd7a0cc658e489c33"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-02",
+    "permalink": "https://exemplo.invalid/p/ficticio-02/",
+    "publicado_em": "2026-09-18T12:00:00-03:00"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-10-faturamento-e-lucro",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Faturamento e lucro não são a mesma coisa",
+  "pilar": "educativo",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "atracao",
+  "objetivo": "Quem lê aprende a diferença entre faturamento e lucro, com um exemplo hipotético, e manda o post para quem confunde as duas coisas.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do tema \"Organização financeira da empresa pequena\" (marca.md, Temas que domina). Ideia do agente, sem leitura de resultados.",
+  "chamada": "Mande este post para quem confunde faturamento com lucro.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Faturamento e lucro não são a mesma coisa.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a frase: Faturamento e lucro não são a mesma coisa.",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Faturamento é tudo o que a empresa recebe.",
+      "texto": "É o total das vendas e dos serviços, antes de pagar qualquer despesa.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Faturamento é tudo o que a empresa recebe. É o total das vendas e dos serviços, antes de pagar qualquer despesa.",
+      "fonte_interna": "Definição em linguagem simples escrita para este post (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Lucro, de forma simples, é o que sobra.",
+      "texto": "Depois de pagar as despesas da empresa, o que fica é o lucro. Cada caso tem as suas contas, e o contador mostra as do seu.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Lucro, de forma simples, é o que sobra. Depois de pagar as despesas da empresa, o que fica é o lucro. Cada caso tem as suas contas, e o contador mostra as do seu.",
+      "fonte_interna": "Definição em linguagem simples escrita para este post (exemplo fictício); regras.md: cada empresa é um caso."
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Um exemplo para imaginar.",
+      "texto": "Imagine uma loja que recebeu bastante no mês, mas pagou quase tudo em despesas. Ela faturou bem e ficou com pouco.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Um exemplo para imaginar. Imagine uma loja que recebeu bastante no mês, mas pagou quase tudo em despesas. Ela faturou bem e ficou com pouco.",
+      "fonte_interna": "Exemplo hipotético criado para este post; não é caso real nem dado (exemplo fictício)."
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Olhar só o faturamento engana.",
+      "texto": "Para saber como a empresa está, olhe também o que sobra.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Olhar só o faturamento engana. Para saber como a empresa está, olhe também o que sobra.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 6,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "Mande este post para quem confunde as duas coisas.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Último slide com a chamada: Mande este post para quem confunde as duas coisas.",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Faturamento e lucro não são a mesma coisa. E confundir os dois atrapalha as contas.\n\nFaturamento é tudo o que a empresa recebe pelas vendas e serviços. Lucro, de forma simples, é o que sobra depois de pagar as despesas.\n\nImagine uma loja que recebeu bastante no mês, mas pagou quase tudo em despesas. Ela faturou bem e ficou com pouco.\n\nPor isso, olhar só o faturamento engana: olhe também o que sobra. Cada caso tem as suas contas, e o seu contador mostra as da sua empresa.\n\nMande este post para quem confunde faturamento com lucro.",
+  "hashtags": [
+    "contabilidade",
+    "gestaofinanceira",
+    "pequenasempresas"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "Definições de faturamento e lucro em linguagem simples, escritas para o post (exemplo fictício); não citam regra contábil, tributo nem valor.",
+    "Exemplo da loja é hipotético e está marcado como tal (\"Imagine\"); não é caso real.",
+    "regras.md: cada empresa é um caso; sem orientação individual por post."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-10-22",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: as definições são gerais, sem número, tributo ou regra, e o exemplo está marcado como hipotético.",
+      "A chamada pede compartilhar, que está em Chamadas disponíveis para a etapa de atração."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-10-21",
+      "evento": "Rascunho criado a partir da pauta 10 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-21",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-22",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-23",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-10-24",
+      "evento": "artes geradas: 6 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-10-24T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-10-faturamento-e-lucro\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-10-25T18:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-13/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-10-faturamento-e-lucro",
+    "data": "2026-10-24T20:30:00-03:00",
+    "hash": "4cc046c03af41a2f94ccacf97649dc1834667b8646ef87d4a9bb104dd35fadc5"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-13",
+    "permalink": "https://exemplo.invalid/p/ficticio-13/",
+    "publicado_em": "2026-10-25T18:00:00-03:00"
+  }
+}

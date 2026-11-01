@@ -1,0 +1,41 @@
+{
+  "versao_esquema": 1,
+  "post_id": "2026-11-03-3-conversa-de-diagnostico",
+  "lote": "2026-11-03-exemplo",
+  "gerado_em": "2026-10-28T23:56:22-03:00",
+  "gerador": "gerar-artes",
+  "proporcao": "4:5",
+  "dimensoes": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "arquivo": "01.png",
+      "sha256": "dadd84352301c20e0c40dee6b4a515e9a97cf797833d82d9aebc8fa71446bd55",
+      "conteudo_sha256": "58c76c501235b28c47e4bbe9eeb29df11951b4a0bac9695dad8584c4856fbf0c",
+      "visual_sha256": "e598067136d93809cbe71cda824ce270d8cffe298e796467715e300182c7c903",
+      "dimensoes": [
+        1080,
+        1350
+      ],
+      "layout": "capa",
+      "tema": "escuro",
+      "variante": "tipografica",
+      "fonte_px": {
+        "chamada": 62
+      },
+      "linhas": 2,
+      "contraste_minimo": 16.24,
+      "logo": {
+        "versao": "fundo_escuro",
+        "posicao": "superior-esquerda",
+        "contraste": 4.67
+      },
+      "imagens": [],
+      "avisos": []
+    }
+  ],
+  "avisos": []
+}

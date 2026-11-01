@@ -1,0 +1,98 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-3-conversa-de-diagnostico",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Abrindo ou formalizando? A conversa de diagnóstico",
+  "pilar": "ofertas",
+  "formato": "post_unico",
+  "proporcao": "4:5",
+  "etapa_funil": "conversao",
+  "objetivo": "Quem está abrindo ou formalizando uma empresa sabe que existe uma conversa de 20 minutos para entender o caso e como chamar pelo WhatsApp.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do serviço \"Conversa de diagnóstico\" (marca.md, O que oferece, item 4), do serviço de abertura de empresa (item 2) e do público \"autônomos que estão se formalizando\" (marca.md, Para quem).",
+  "chamada": "Fale com a gente pelo WhatsApp e conte o que a sua empresa faz.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Vai abrir ou formalizar uma empresa e não sabe por onde começar?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a pergunta: Vai abrir ou formalizar uma empresa e não sabe por onde começar?",
+      "fonte_interna": "marca.md, Para quem: autônomos que estão se formalizando (exemplo fictício)."
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Vai abrir ou formalizar uma empresa e não sabe por onde começar?\n\nNa hora de abrir ou formalizar, aparecem perguntas como: que tipo de empresa abrir, quais papéis juntar e quem vai cuidar disso depois. Cada caso é um caso, e por isso não dá para responder tudo em um post.\n\nA gente oferece uma conversa de diagnóstico de 20 minutos. Ela serve para entender a situação da sua empresa e dizer o que a gente pode fazer por você. Sem enrolação.\n\nFale com a gente pelo WhatsApp e conte o que a sua empresa faz.",
+  "hashtags": [
+    "contabilidade",
+    "abrirempresa",
+    "mei"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "marca.md, O que oferece, item 4: conversa de diagnóstico de 20 minutos, para entender a situação da empresa e dizer o que o escritório pode fazer (exemplo fictício).",
+    "marca.md, O que oferece, item 2: abertura de empresa. Perguntas citadas na legenda escritas para o exemplo; não são regra nem prazo.",
+    "regras.md: cada empresa é um caso; sem orientação individual por post."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-09-22",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: a legenda não cita lei, prazo nem valor, e não promete resultado.",
+      "A chamada é de conversão e usa o WhatsApp, que está em Chamadas disponíveis (marca.md)."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-09-21",
+      "evento": "Rascunho criado a partir da pauta 3 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-09-21",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-09-22",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-09-23",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-09-24",
+      "evento": "artes geradas: 1 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-09-24T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-3-conversa-de-diagnostico\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-09-25T18:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-04/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-3-conversa-de-diagnostico",
+    "data": "2026-09-24T20:30:00-03:00",
+    "hash": "c2f5523a7880e408efdc35493c3fae35a01e95f485fae6803ad416d00f3ef83a"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-04",
+    "permalink": "https://exemplo.invalid/p/ficticio-04/",
+    "publicado_em": "2026-09-25T18:00:00-03:00"
+  }
+}

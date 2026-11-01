@@ -1,0 +1,152 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-11-03-1-contas-separadas",
+  "lote": "2026-11-03-exemplo",
+  "titulo_interno": "Separe a conta da empresa da sua",
+  "pilar": "educativo",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "atracao",
+  "objetivo": "Quem lê reconhece os sinais de que mistura a conta pessoal com a da empresa e sai com três passos simples para separar.",
+  "de_onde_vem": "Pauta 1 do lote. Vem do movimento \"Publicar 3 carrosséis sobre as dúvidas que mais aparecem na rotina dos clientes\" (estrategia.json) e da dor \"misturar a conta pessoal com a da empresa\" (marca.md). Ideia do agente, sem leitura de resultados. Exemplo fictício.",
+  "chamada": "Salve este post para consultar quando for separar as contas da sua empresa.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Você mistura a conta da empresa com a sua?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a pergunta: Você mistura a conta da empresa com a sua?",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Misturar as contas esconde o resultado de verdade.",
+      "texto": "Quando tudo passa pela mesma conta, você não sabe quanto a empresa ganhou nem quanto pode tirar dela sem apertar o caixa.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Misturar as contas esconde o resultado de verdade. Quando tudo passa pela mesma conta, você não sabe quanto a empresa ganhou nem quanto pode tirar dela sem apertar o caixa.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "lista",
+      "titulo": "Quatro sinais de que as contas estão misturadas",
+      "texto": "",
+      "itens": [
+        "Você paga o mercado com o cartão da empresa.",
+        "O cliente paga no Pix da sua conta pessoal.",
+        "No fim do mês, você não sabe quanto tirou da empresa.",
+        "Quando falta dinheiro em casa, você pega da empresa sem anotar."
+      ],
+      "imagem": null,
+      "texto_alternativo": "Lista com quatro sinais de contas misturadas: pagar o mercado com o cartão da empresa; receber de cliente no Pix pessoal; não saber quanto tirou da empresa no mês; pegar dinheiro da empresa sem anotar.",
+      "fonte_interna": "Situações comuns descritas como dor do público em marca.md, seção Para quem (exemplo fictício); sem dado ou número."
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "cartoes",
+      "titulo": "Três passos para separar, sem enrolação",
+      "texto": "",
+      "itens": [
+        "Abra uma conta só da empresa e use apenas ela para receber e pagar.",
+        "Combine quanto você tira por mês e transfira sempre na mesma data.",
+        "Guarde notas e comprovantes pelo prazo que a lei exige."
+      ],
+      "imagem": null,
+      "texto_alternativo": "Três cartões com os passos: abrir uma conta só da empresa; combinar quanto tirar por mês e transferir sempre na mesma data; guardar notas e comprovantes pelo prazo que a lei exige.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício). O terceiro cartão cita uma exigência legal ainda sem fonte oficial: ver confirmar[]."
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "citacao",
+      "titulo": "Dinheiro da empresa não é a sua conta corrente.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Frase em destaque: Dinheiro da empresa não é a sua conta corrente.",
+      "fonte_interna": "Frase de posicionamento da marca (exemplo fictício); sem dado ou regra."
+    },
+    {
+      "n": 6,
+      "papel": "conteudo",
+      "layout": "imagem",
+      "titulo": "Cada coisa no seu lugar.",
+      "texto": "Com as contas separadas, o relatório do mês mostra o resultado de verdade, em linguagem simples.",
+      "itens": [],
+      "imagem": {
+        "tipo": "gerada",
+        "arquivo": "",
+        "descricao": "Mesa de trabalho organizada, com duas pastas de cores diferentes lado a lado",
+        "prompt": "Fotografia realista de uma mesa de trabalho organizada, em luz natural suave, vista levemente de cima: duas pastas de cartão de cores diferentes (verde-petróleo e cinza-claro) lado a lado, um caderno fechado e uma caneta, plantas desfocadas ao fundo. Sem pessoas, sem moedas, sem dinheiro, sem texto, sem letras, sem números, sem logos. Deixe o terço de baixo da imagem mais limpo."
+      },
+      "texto_alternativo": "Mesa de trabalho organizada, com duas pastas de cores diferentes lado a lado. Cada coisa no seu lugar. Com as contas separadas, o relatório do mês mostra o resultado de verdade, em linguagem simples.",
+      "fonte_interna": "marca.md, seção Diferenciais e provas autorizadas: relatório mensal em linguagem simples, informado pela pessoa em 2026-10-20 (exemplo fictício)."
+    },
+    {
+      "n": 7,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "Salve este post para separar as suas contas.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Último slide com a chamada: Salve este post para separar as suas contas.",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Você mistura a conta da empresa com a sua? Isso esconde o resultado de verdade do seu negócio.\n\nQuando tudo passa pela mesma conta, fica difícil saber quanto a empresa ganhou e quanto você pode tirar dela sem apertar o caixa. É comum no começo, quando o negócio é pequeno e tudo parece uma coisa só.\n\nNa prática, o caminho é simples: uma conta só da empresa, um valor combinado para você tirar por mês e um lugar para guardar notas e comprovantes. O valor certo depende do tipo da sua empresa, e o contador ajuda a definir.\n\nPasse os slides, veja qual sinal é o seu e comece por um passo.\n\nSalve este post para consultar quando for separar as contas da sua empresa.",
+  "hashtags": ["contabilidade", "mei", "gestaofinanceira"],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "Orientação editorial da marca (exemplo fictício), a partir da dor \"misturar a conta pessoal com a da empresa\" em marca.md.",
+    "A frase sobre \"o contador ajuda a definir\" o valor vem da regra de regras.md: nada de orientação individual por post."
+  ],
+  "confirmar": [
+    "NÃO VERIFICADO: a exigência legal de guardar notas e comprovantes por um prazo (slide 4, terceiro cartão) — conferir na página oficial da Receita Federal, registrar a fonte em fontes e só então publicar"
+  ],
+  "revisao": {
+    "data": "2026-10-28",
+    "veredito": "ajustar",
+    "pontos": [
+      "1. Slide 4, 3º cartão (\"Guarde notas e comprovantes pelo prazo que a lei exige.\"): afirma uma exigência legal sem fonte oficial aberta e não diz qual é o prazo, então quem lê não sabe o que fazer. A pendência já está em confirmar[] como NÃO VERIFICADO e bloqueia a publicação. Abra a página oficial, registre em fontes[] (nome, endereço e data) e escreva o prazo exato, ou tire a exigência legal do texto, por exemplo: \"Guarde notas fiscais e comprovantes num só lugar e pergunte ao seu contador por quanto tempo.\" Escreva \"notas fiscais\": só \"notas\" pode ser lido como anotações.",
+      "2. Slide 5, título: falta o artigo. \"Dinheiro da empresa não é a sua conta corrente.\" deve ser \"O dinheiro da empresa não é a sua conta corrente.\" Acerte também o texto_alternativo do mesmo slide.",
+      "3. Slide 4: os três itens são passos em sequência, mas o layout é cartoes (sem número). Troque para lista, que numera. No 2º passo, \"Combine\" não diz com quem e \"transfira\" não diz de onde para onde; sugestão: \"Defina quanto você tira por mês e transfira esse valor da conta da empresa para a sua, sempre na mesma data.\"",
+      "4. Slide 6, apoio: \"o relatório do mês\" aparece sem aviso (relatório de quem?) e repete \"resultado de verdade\" do slide 2. Diga de quem é (por exemplo, \"o relatório mensal que a gente entrega\") ou use algo que quem não é cliente entenda, como \"fica fácil ver o resultado do mês, em linguagem simples\".",
+      "5. Nota de origem do slide 3 (fonte_interna): marca.md só registra a dor \"misturar a conta pessoal com a da empresa\"; as quatro situações não estão lá. Escreva que são exemplos criados para o post a partir dessa dor, sem dado nem caso real.",
+      "6. Nota de origem do slide 5 (fonte_interna): \"Frase de posicionamento da marca\" não existe em marca.md. Registre como frase nova escrita para este post, para a pessoa aprovar, ou use uma frase que já esteja em marca.md.",
+      "7. Legenda, 3º parágrafo: \"O valor certo depende do tipo da sua empresa\" é uma afirmação técnica sem origem registrada (a nota em fontes_legenda_internas explica só o \"o contador ajuda a definir\"). Use o que regras.md diz, \"depende do caso da sua empresa\", e corrija a nota.",
+      "8. Slide 6, imagem.prompt: termine com \"Sem texto, sem letras, sem logos.\" (hoje termina em \"Deixe o terço de baixo da imagem mais limpo.\"). A cena de mesa com pastas e plantas é de banco de imagem, o que padrao-visual.md diz que a pessoa não quer; troque por uma cena ligada à ideia de separar duas coisas."
+    ]
+  },
+  "status": "em_revisao",
+  "historico": [
+    {
+      "data": "2026-10-28",
+      "evento": "Rascunho criado a partir da pauta 1 (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Revisão independente: ajustar",
+      "por": "revisar-conteudo"
+    }
+  ],
+  "aprovacao": null,
+  "agendado_para": null,
+  "publicacao": null
+}

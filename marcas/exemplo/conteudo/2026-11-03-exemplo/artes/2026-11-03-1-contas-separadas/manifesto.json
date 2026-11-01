@@ -1,0 +1,214 @@
+{
+  "versao_esquema": 1,
+  "post_id": "2026-11-03-1-contas-separadas",
+  "lote": "2026-11-03-exemplo",
+  "gerado_em": "2026-10-28T23:56:22-03:00",
+  "gerador": "gerar-artes",
+  "proporcao": "4:5",
+  "dimensoes": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "arquivo": "01.png",
+      "sha256": "abbd67b1655dab0b3db17e03e0c384bffbd3b4df26234ab56958ce4f528a3c6a",
+      "conteudo_sha256": "2dceb1e51d9044a7dec37cce9c6bc8526b48f9bbe593a33b45350594ae5bc63d",
+      "visual_sha256": "e598067136d93809cbe71cda824ce270d8cffe298e796467715e300182c7c903",
+      "dimensoes": [
+        1080,
+        1350
+      ],
+      "layout": "capa",
+      "tema": "escuro",
+      "variante": "tipografica",
+      "fonte_px": {
+        "chamada": 62
+      },
+      "linhas": 2,
+      "contraste_minimo": 16.24,
+      "logo": {
+        "versao": "fundo_escuro",
+        "posicao": "superior-esquerda",
+        "contraste": 4.67
+      },
+      "imagens": [],
+      "avisos": []
+    },
+    {
+      "n": 2,
+      "arquivo": "02.png",
+      "sha256": "235135b4a131b2fc5147fa6a9fd0277a28a849eb0ce336440d79281fe6d0bb69",
+      "conteudo_sha256": "e21b98ac35913d34e4d9deae9d7f225a3f48ed6c04493ed774bc851ce1f82d0d",
+      "visual_sha256": "e598067136d93809cbe71cda824ce270d8cffe298e796467715e300182c7c903",
+      "dimensoes": [
+        1080,
+        1350
+      ],
+      "layout": "texto",
+      "tema": "claro",
+      "variante": null,
+      "fonte_px": {
+        "titulo": 56,
+        "apoio": 30
+      },
+      "linhas": 4,
+      "contraste_minimo": 13.79,
+      "logo": {
+        "versao": "fundo_claro",
+        "posicao": "superior-esquerda",
+        "contraste": 4.62
+      },
+      "imagens": [],
+      "avisos": []
+    },
+    {
+      "n": 3,
+      "arquivo": "03.png",
+      "sha256": "f13bb7dd2500413c66f94b95e7c9442637ca708e71f21eb98752007d386bf1be",
+      "conteudo_sha256": "9127d6d8e476fb1861d6717d53efca1c2ecded01422b53561f3786bf19474595",
+      "visual_sha256": "e598067136d93809cbe71cda824ce270d8cffe298e796467715e300182c7c903",
+      "dimensoes": [
+        1080,
+        1350
+      ],
+      "layout": "cartoes",
+      "tema": "claro",
+      "variante": null,
+      "fonte_px": {
+        "titulo": 56,
+        "cartao": 34
+      },
+      "linhas": 8,
+      "contraste_minimo": 12.6,
+      "logo": {
+        "versao": "fundo_claro",
+        "posicao": "superior-esquerda",
+        "contraste": 4.62
+      },
+      "imagens": [],
+      "avisos": []
+    },
+    {
+      "n": 4,
+      "arquivo": "04.png",
+      "sha256": "c97bd34d20ec5ce8929b94f0468639f735f783bba8a80b962cb88d6806ed144e",
+      "conteudo_sha256": "b7b64bf01bcfc4c89b79c635f906428fe79c93d5471e74074fcfc9cb754badd6",
+      "visual_sha256": "e598067136d93809cbe71cda824ce270d8cffe298e796467715e300182c7c903",
+      "dimensoes": [
+        1080,
+        1350
+      ],
+      "layout": "lista",
+      "tema": "claro",
+      "variante": null,
+      "fonte_px": {
+        "titulo": 56,
+        "item": 34
+      },
+      "linhas": 8,
+      "contraste_minimo": 13.79,
+      "logo": {
+        "versao": "fundo_claro",
+        "posicao": "superior-esquerda",
+        "contraste": 4.62
+      },
+      "imagens": [],
+      "avisos": []
+    },
+    {
+      "n": 5,
+      "arquivo": "05.png",
+      "sha256": "b17eef0797f61f2bf495c7420dbee1f41b6c798179bf9e41f45195cb0d4546ba",
+      "conteudo_sha256": "2b1fc1e15db068e779293035b1f6ab406641eb79323963fdcd6988897a7c31dd",
+      "visual_sha256": "e598067136d93809cbe71cda824ce270d8cffe298e796467715e300182c7c903",
+      "dimensoes": [
+        1080,
+        1350
+      ],
+      "layout": "citacao",
+      "tema": "claro",
+      "variante": null,
+      "fonte_px": {
+        "citacao": 56
+      },
+      "linhas": 2,
+      "contraste_minimo": 6.18,
+      "logo": {
+        "versao": "fundo_claro",
+        "posicao": "superior-esquerda",
+        "contraste": 4.62
+      },
+      "imagens": [],
+      "avisos": []
+    },
+    {
+      "n": 6,
+      "arquivo": "06.png",
+      "sha256": "8d3fe19827adb7a5c6704712d84d9263c80c81367a3b10f9c3b8a9c01057cd5b",
+      "conteudo_sha256": "37924ce73d969fefbd5cf102214c54bdb0853fbf10a1a5df3b1f4bc9d776ec10",
+      "visual_sha256": "e598067136d93809cbe71cda824ce270d8cffe298e796467715e300182c7c903",
+      "dimensoes": [
+        1080,
+        1350
+      ],
+      "layout": "imagem",
+      "tema": "claro",
+      "variante": null,
+      "fonte_px": {
+        "titulo": 56,
+        "apoio": 30
+      },
+      "linhas": 4,
+      "contraste_minimo": 13.79,
+      "logo": {
+        "versao": "fundo_claro",
+        "posicao": "superior-esquerda",
+        "contraste": 4.62
+      },
+      "imagens": [],
+      "avisos": [
+        {
+          "nivel": "atencao",
+          "codigo": "imagem_ausente",
+          "mensagem": "Slide 6: a imagem prevista não foi encontrada (Uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo, sobre uma mesa de madeira clara). O slide saiu com fundo sólido; gere o prompt, crie a imagem e importe (ou indique a foto aprovada)."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "arquivo": "07.png",
+      "sha256": "5e2f6509ed01a7a3aa9daa3d7a67d03003699bb710fb437aed33af6bb862f208",
+      "conteudo_sha256": "cfdd11848775aae14fc59a696cb0bad4578dab19e8d22cc1b697bf947776ee70",
+      "visual_sha256": "e598067136d93809cbe71cda824ce270d8cffe298e796467715e300182c7c903",
+      "dimensoes": [
+        1080,
+        1350
+      ],
+      "layout": "cta",
+      "tema": "escuro",
+      "variante": null,
+      "fonte_px": {
+        "chamada": 62
+      },
+      "linhas": 2,
+      "contraste_minimo": 7.01,
+      "logo": {
+        "versao": "fundo_escuro",
+        "posicao": "superior-esquerda",
+        "contraste": 4.72
+      },
+      "imagens": [],
+      "avisos": []
+    }
+  ],
+  "avisos": [
+    {
+      "nivel": "atencao",
+      "codigo": "imagem_ausente",
+      "mensagem": "Slide 6: a imagem prevista não foi encontrada (Uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo, sobre uma mesa de madeira clara). O slide saiu com fundo sólido; gere o prompt, crie a imagem e importe (ou indique a foto aprovada).",
+      "slide": 6
+    }
+  ]
+}

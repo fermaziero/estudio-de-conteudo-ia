@@ -1,0 +1,158 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-5-ler-a-guia-de-imposto",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Como ler a guia de imposto sem se perder",
+  "pilar": "educativo",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "relacionamento",
+  "objetivo": "Quem lê sabe o que olhar primeiro numa guia de pagamento e que pode mandar a dúvida ao contador antes de pagar.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem da dor \"não entender a guia de imposto que chega\" (marca.md, Para quem) e do tema \"Impostos do dia a dia do MEI e do Simples Nacional\" (marca.md, Temas que domina).",
+  "chamada": "Mande este post para o seu sócio.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Como ler a guia de imposto sem se perder?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a pergunta: Como ler a guia de imposto sem se perder?",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Guia de imposto não precisa ser um bicho de sete cabeças.",
+      "texto": "Com calma e na ordem certa, você descobre o que ela está cobrando.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Guia de imposto não precisa ser um bicho de sete cabeças. Com calma e na ordem certa, você descobre o que ela está cobrando.",
+      "fonte_interna": "Frase da voz da marca (marca.md, Tom de voz); sem dado, número ou regra (exemplo fictício)."
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "lista",
+      "titulo": "Olhe primeiro para estas quatro coisas",
+      "texto": "",
+      "itens": [
+        "O nome da empresa: confirme que a guia é mesmo da sua.",
+        "O mês a que a guia se refere.",
+        "O valor a pagar.",
+        "A data de vencimento."
+      ],
+      "imagem": null,
+      "texto_alternativo": "Slide com lista: Olhe primeiro para estas quatro coisas O nome da empresa: confirme que a guia é mesmo da sua; O mês a que a guia se refere; O valor a pagar; A data de vencimento.",
+      "fonte_interna": "Itens gerais de uma guia de pagamento (nome, mês, valor, vencimento), escritos para este post (exemplo fictício); não descrevem a guia de um imposto específico."
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Se algo não bater, pare e pergunte.",
+      "texto": "Valor diferente do esperado ou mês que você não reconhece? Antes de pagar, mande uma mensagem para o seu contador.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Se algo não bater, pare e pergunte. Valor diferente do esperado ou mês que você não reconhece? Antes de pagar, mande uma mensagem para o seu contador.",
+      "fonte_interna": "regras.md: cada empresa é um caso; sem orientação individual por post."
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Conferir antes de pagar evita dor de cabeça.",
+      "texto": "Quatro itens e uma pergunta, quando precisar: é o passo a passo para ler a sua guia com mais calma.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Conferir antes de pagar evita dor de cabeça. Quatro itens e uma pergunta, quando precisar: é o passo a passo para ler a sua guia com mais calma.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 6,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "Mande este post para o seu sócio.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Último slide com a chamada: Mande este post para o seu sócio.",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Chegou uma guia de imposto e você não sabe por onde começar?\n\nImposto não precisa ser um bicho de sete cabeças. Com calma e na ordem certa, dá para ler a guia passo a passo.\n\nOlhe primeiro para:\n- o nome da empresa;\n- o mês a que a guia se refere;\n- o valor a pagar;\n- a data de vencimento.\n\nSe algo não bater, antes de pagar, mande uma mensagem para o seu contador. Cada guia tem o seu caso, e quem conhece o caso responde melhor.\n\nMande este post para o seu sócio.",
+  "hashtags": [
+    "contabilidade",
+    "impostos",
+    "gestaofinanceira"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "Frase \"Imposto não precisa ser um bicho de sete cabeças\" tirada de marca.md, Tom de voz (texto fictício da marca).",
+    "Itens gerais de uma guia de pagamento escritos para o post; não descrevem a guia de um imposto específico nem citam regra (exemplo fictício).",
+    "regras.md: cada empresa é um caso; sem orientação individual por post."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-10-03",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: o post só lista itens gerais de uma guia e manda a dúvida ao contador.",
+      "Nenhuma guia, valor ou documento real aparece (regras.md proíbe print de guia)."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-10-02",
+      "evento": "Rascunho criado a partir da pauta 5 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-02",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-03",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-04",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-10-05",
+      "evento": "artes geradas: 6 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-10-05T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-5-ler-a-guia-de-imposto\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-10-06T18:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-07/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-5-ler-a-guia-de-imposto",
+    "data": "2026-10-05T20:30:00-03:00",
+    "hash": "57f63e6d37353db3f6448324b3da0a4fd47423d6777290afa01c890b0383aa8c"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-07",
+    "permalink": "https://exemplo.invalid/p/ficticio-07/",
+    "publicado_em": "2026-10-06T18:00:00-03:00"
+  }
+}

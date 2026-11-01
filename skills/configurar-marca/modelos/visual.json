@@ -1,0 +1,24 @@
+{
+  "versao_esquema": 1,
+  "nome_exibicao": "{{NOME}}",
+  "arroba": "{{ARROBA}}",
+  "proporcao_padrao": "4:5",
+  "cores": {
+    "fundo": "#FAFAF7",
+    "texto": "#1C1F22",
+    "destaque": "#0E7490",
+    "suave": "#585F66",
+    "fundo_escuro": "#14181C",
+    "texto_sobre_escuro": "#FFFFFF"
+  },
+  "fontes": null,
+  "logo": {
+    "fundo_claro": "assets/logo/logo-fundo-claro.png",
+    "fundo_escuro": "assets/logo/logo-fundo-escuro.png",
+    "posicao": "superior-esquerda",
+    "largura_px": 140
+  },
+  "avatar": null,
+  "numeracao": false,
+  "rodape": false
+}

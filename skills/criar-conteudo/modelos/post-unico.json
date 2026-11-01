@@ -1,0 +1,44 @@
+{
+  "versao_esquema": 1,
+  "id": "<AAAA-MM-DD>-<n>-<slug-curto>",
+  "lote": "<AAAA-MM-DD-slug do lote>",
+  "titulo_interno": "<nome curto para a pessoa reconhecer o post>",
+  "pilar": "<id de um pilar de estrategia.json>",
+  "formato": "post_unico",
+  "proporcao": "4:5",
+  "etapa_funil": "<atracao, relacionamento ou conversao>",
+  "objetivo": "<o que quem lê leva do post>",
+  "de_onde_vem": "<origem da pauta: referência, pergunta de cliente, resultado anterior>",
+  "chamada": "<a única chamada para ação>",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "<a mensagem inteira, em até 12 palavras>",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "<descrição da arte para quem usa leitor de tela>",
+      "fonte_interna": "<de onde saiu o que a arte afirma>"
+    }
+  ],
+  "roteiro": null,
+  "legenda": "<primeira linha: o gancho, legível antes do \"mais\">\n\n<corpo: contexto, um dado ou exemplo, a lição>\n\n<a mesma chamada do campo chamada>",
+  "hashtags": [],
+  "fontes": [],
+  "fontes_legenda_internas": [],
+  "confirmar": [],
+  "revisao": null,
+  "status": "rascunho",
+  "historico": [
+    {
+      "data": "<AAAA-MM-DD>",
+      "evento": "Rascunho criado a partir da pauta <número>",
+      "por": "criar-conteudo"
+    }
+  ],
+  "aprovacao": null,
+  "agendado_para": null,
+  "publicacao": null
+}

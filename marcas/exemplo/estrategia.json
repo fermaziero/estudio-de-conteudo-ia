@@ -1,0 +1,27 @@
+{
+  "versao_esquema": 1,
+  "atualizado_em": "2026-10-28",
+  "status": "vigente",
+  "objetivo": "(Exemplo fictício) Ser lembrado por donos de pequenos negócios como o escritório que explica imposto sem enrolação e receber mais pedidos de conversa no direct e no WhatsApp nos próximos 3 meses.",
+  "pilares": [
+    {"id": "educativo", "nome": "Educativo", "descricao": "Explica impostos, prazos e rotinas da empresa pequena em linguagem simples, com exemplos do dia a dia. É o conteúdo que a pessoa salva e manda para o sócio.", "peso": 50},
+    {"id": "bastidores", "nome": "Bastidores", "descricao": "Mostra como o escritório trabalha: a rotina da equipe, como é um fechamento de mês, os erros comuns que a equipe evita. Só com autorização de quem aparece.", "peso": 20},
+    {"id": "ofertas", "nome": "Serviços e ofertas", "descricao": "Apresenta o que o escritório faz, para quem serve e como começar uma conversa, sempre com uma única chamada.", "peso": 30}
+  ],
+  "ritmo": {"posts_por_semana": 3, "formatos": {"carrossel": 2, "post_unico": 1, "reel": 0}},
+  "metas": [
+    {"id": "seguidores", "descricao": "Seguidores do perfil (número fictício)", "indicador": "seguidores", "base": 850, "alvo": 1200, "prazo": "2027-01-31"},
+    {"id": "salvamentos", "descricao": "Salvamentos médios por post (número fictício)", "indicador": "salvamentos_medio", "base": 9, "alvo": 20, "prazo": "2027-01-31"},
+    {"id": "conversas", "descricao": "Conversas iniciadas por mês no direct ou no WhatsApp, anotadas pela equipe (número fictício)", "indicador": "manual", "base": 4, "alvo": 10, "prazo": "2027-01-31", "atual": 4, "atual_em": "2026-10-28"}
+  ],
+  "funil": {
+    "atracao": "Carrosséis educativos que respondem a uma dúvida comum de quem tem empresa pequena, feitos para salvar e compartilhar.",
+    "relacionamento": "Bastidores e respostas às dúvidas que chegam nos comentários, convidando a comentar e a mandar para o sócio.",
+    "conversao": "Posts sobre os serviços com uma única chamada: conversar no direct ou no WhatsApp sobre o caso da empresa."
+  },
+  "movimentos": [
+    {"o_que": "Publicar 3 carrosséis sobre as dúvidas que mais aparecem na rotina dos clientes", "indicador": "salvamentos_medio", "ate": "2026-11-30"},
+    {"o_que": "Responder em até 1 dia útil todos os comentários e mensagens", "indicador": "comentarios_medio", "ate": "2026-12-15"},
+    {"o_que": "Testar um post de bastidores por semana durante um mês", "indicador": "posts_por_semana", "ate": "2026-12-31"}
+  ]
+}

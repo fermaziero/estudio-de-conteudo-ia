@@ -1,0 +1,105 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-11-03-3-conversa-de-diagnostico",
+  "lote": "2026-11-03-exemplo",
+  "titulo_interno": "Conversa de diagnóstico de 20 minutos",
+  "pilar": "ofertas",
+  "formato": "post_unico",
+  "proporcao": "4:5",
+  "etapa_funil": "conversao",
+  "objetivo": "Quem tem dúvida sobre o regime tributário da empresa sabe que existe uma conversa de 20 minutos para tirá-la e como começar.",
+  "de_onde_vem": "Pauta 3 do lote. Vem do serviço \"Conversa de diagnóstico\" (marca.md, O que oferece, item 4) e da dor \"dúvida se o regime tributário atual é o melhor\" (marca.md, Para quem). Exemplo fictício.",
+  "chamada": "Chame no direct e conte o que a sua empresa faz.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Dúvida sobre o regime tributário da sua empresa?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Arte em fundo claro com a pergunta: Dúvida sobre o regime tributário da sua empresa?",
+      "fonte_interna": "marca.md, Para quem: dúvida se o regime tributário atual é o melhor (exemplo fictício)."
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Dúvida se o regime tributário da sua empresa é o certo? Você não precisa resolver isso sem ajuda.\n\nO regime tributário é a forma como a empresa paga imposto. Cada empresa é um caso, e por isso não dá para dizer, em um post, qual regime serve para você.\n\nA gente oferece uma conversa de diagnóstico de 20 minutos. Ela serve para entender a situação da sua empresa e dizer o que a gente pode fazer por você. Sem enrolação.\n\nChame no direct e conte o que a sua empresa faz.",
+  "hashtags": [
+    "contabilidade",
+    "pequenasempresas"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "marca.md, O que oferece, item 4: conversa de diagnóstico de 20 minutos, para entender a situação da empresa e dizer o que o escritório pode fazer (exemplo fictício).",
+    "marca.md, Para quem: dúvida se o regime tributário atual é o melhor.",
+    "regras.md: cada empresa é um caso; sem orientação individual por post e sem promessa de redução de imposto.",
+    "Definição de \"regime tributário\" em linguagem simples, escrita para o leigo (exemplo fictício); não cita lei, prazo nem valor."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-10-28",
+    "veredito": "aprovar",
+    "pontos": [
+      "Observação para a aprovação: a capa e o canal da chamada mudaram em relação à pauta que a pessoa aprovou (a capa perdeu o convite e o WhatsApp virou direct). A explicação está em pautas.md, \"Ajuste na escrita\"; vale avisá-la ao pedir o ok do texto.",
+      "Sugestão, legenda, 3º parágrafo: a frase \"O que a gente faz é uma conversa de diagnóstico…\" tem 30 palavras e parece dizer que é só isso que o escritório faz (marca.md lista outros serviços). Algo como \"A gente oferece uma conversa de diagnóstico de 20 minutos. Ela serve para entender a situação da sua empresa e dizer o que a gente pode fazer por você.\" fica mais curto e numa voz só.",
+      "Sugestão: o post não diz se a conversa tem custo nem como ela acontece (vídeo, telefone ou presencial), e marca.md também não. Não escreva \"grátis\" nem \"sem compromisso\" sem a pessoa confirmar."
+    ]
+  },
+  "status": "arte_pronta",
+  "historico": [
+    {
+      "data": "2026-10-28",
+      "evento": "Rascunho criado a partir da pauta 3 (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Revisão independente: ajustar",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Ajustes aplicados depois da revisão (4 pontos). Versão anterior em posts/_antes-ajustes-da-revisao/",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Enviado para nova revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Revisão independente: aprovar (3 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Sugestão da revisão aplicada: redação do 3º parágrafo da legenda. Sem mudança de fato, promessa ou chamada.",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Texto aprovado pela pessoa, que foi avisada de que a capa e o canal da chamada mudaram em relação à pauta: \"Aprovado. Pode ser pelo direct mesmo, e a capa só com a pergunta está ótima.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "artes geradas: 1 slide(s) em 4:5",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-10-29T18:46:59-03:00",
+      "evento": "artes conferidas e prontas para a aprovação da pessoa (1 slide(s))",
+      "por": "gerar-artes"
+    }
+  ],
+  "aprovacao": null,
+  "agendado_para": null,
+  "publicacao": null
+}

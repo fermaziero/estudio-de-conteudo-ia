@@ -1,0 +1,181 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-11-03-1-contas-separadas",
+  "lote": "2026-11-03-exemplo",
+  "titulo_interno": "Separe a conta da empresa da sua",
+  "pilar": "educativo",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "atracao",
+  "objetivo": "Quem lê reconhece os sinais de que mistura a conta pessoal com a da empresa e sai com três passos para separar.",
+  "de_onde_vem": "Pauta 1 do lote. Vem do movimento \"Publicar 3 carrosséis sobre as dúvidas que mais aparecem na rotina dos clientes\" (estrategia.json) e da dor \"misturar a conta pessoal com a da empresa\" (marca.md). Ideia do agente, sem leitura de resultados. Exemplo fictício.",
+  "chamada": "Salve este post para consultar quando for separar as contas da sua empresa.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Você mistura a conta da empresa com a sua?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a pergunta: Você mistura a conta da empresa com a sua?",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Misturar as contas esconde o resultado de verdade.",
+      "texto": "Quando tudo passa pela mesma conta, você não sabe quanto a empresa ganhou nem quanto pode tirar dela sem apertar o caixa.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Misturar as contas esconde o resultado de verdade. Quando tudo passa pela mesma conta, você não sabe quanto a empresa ganhou nem quanto pode tirar dela sem apertar o caixa.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "cartoes",
+      "titulo": "Quatro sinais de que as contas estão misturadas",
+      "texto": "",
+      "itens": [
+        "Você paga o mercado com o cartão da empresa.",
+        "O cliente paga por Pix na sua conta pessoal.",
+        "No fim do mês, você não sabe quanto tirou da empresa.",
+        "Quando falta dinheiro em casa, você pega da empresa sem anotar."
+      ],
+      "imagem": null,
+      "texto_alternativo": "Quatro cartões com sinais de contas misturadas: pagar o mercado com o cartão da empresa; receber de cliente por Pix na conta pessoal; não saber quanto tirou da empresa no mês; pegar dinheiro da empresa sem anotar.",
+      "fonte_interna": "Exemplos criados para este post a partir da dor \"misturar a conta pessoal com a da empresa\" (marca.md, seção Para quem); não são dado nem caso real (exemplo fictício)."
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "lista",
+      "titulo": "Três passos para separar, sem enrolação",
+      "texto": "",
+      "itens": [
+        "Abra uma conta só da empresa e use apenas ela para receber e pagar.",
+        "Defina quanto você tira por mês e transfira da conta da empresa para a sua, sempre na mesma data.",
+        "Guarde notas fiscais e comprovantes pelo prazo da lei. O seu contador diz qual é."
+      ],
+      "imagem": null,
+      "texto_alternativo": "Lista numerada com os três passos: abrir uma conta só da empresa; definir quanto tirar por mês e transferir da conta da empresa para a sua sempre na mesma data; guardar notas fiscais e comprovantes pelo prazo da lei, que o contador informa.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício). O terceiro passo cita uma exigência legal ainda sem fonte oficial: ver confirmar[]."
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "citacao",
+      "titulo": "A conta da empresa é da empresa; a sua conta é sua.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Frase em destaque: A conta da empresa é da empresa; a sua conta é sua.",
+      "fonte_interna": "Frase nova escrita para este post, para a pessoa aprovar; é um princípio de organização, não dado nem regra (exemplo fictício)."
+    },
+    {
+      "n": 6,
+      "papel": "conteudo",
+      "layout": "imagem",
+      "titulo": "No fim do mês, o resultado aparece.",
+      "texto": "Com as contas separadas, o relatório mensal que a gente entrega mostra o que é da empresa, em linguagem simples.",
+      "itens": [],
+      "imagem": {
+        "tipo": "gerada",
+        "arquivo": "",
+        "descricao": "Uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo, sobre uma mesa de madeira clara",
+        "prompt": "Fotografia realista, em luz natural suave, de uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo fechada, sobre uma mesa de madeira clara, vistas levemente de cima, com o fundo desfocado. Sem pessoas, sem moedas, sem dinheiro. Deixe o terço de baixo da imagem mais limpo. Sem texto, sem letras, sem logos."
+      },
+      "texto_alternativo": "Uma carteira de couro marrom ao lado de uma pasta de documentos verde-petróleo, sobre uma mesa de madeira clara. No fim do mês, o resultado aparece. Com as contas separadas, o relatório mensal que a gente entrega mostra o que é da empresa, em linguagem simples.",
+      "fonte_interna": "marca.md, seção Diferenciais e provas autorizadas: relatório mensal em linguagem simples, informado pela pessoa em 2026-10-20 (exemplo fictício). A ligação com as contas separadas é orientação editorial."
+    },
+    {
+      "n": 7,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "Salve este post para separar as suas contas.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Último slide com a chamada: Salve este post para separar as suas contas.",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Você mistura a conta da empresa com a sua? Isso esconde o resultado de verdade do seu negócio.\n\nCom tudo na mesma conta, não dá para saber quanto a empresa ganhou. Nem quanto você pode tirar dela sem apertar o caixa.\n\nNa prática, são três passos:\n- uma conta só da empresa;\n- um valor combinado para você tirar por mês;\n- um lugar para guardar notas fiscais e comprovantes.\n\nO valor certo depende do caso da sua empresa, e o contador ajuda a definir.\n\nSalve este post para consultar quando for separar as contas da sua empresa.",
+  "hashtags": [
+    "contabilidade",
+    "mei",
+    "gestaofinanceira"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "Orientação editorial da marca, a partir da dor \"misturar a conta pessoal com a da empresa\" em marca.md (exemplo fictício); sem dado ou número.",
+    "\"O valor certo depende do caso da sua empresa\" vem de regras.md: cada empresa é um caso e não há orientação individual por post. \"O contador ajuda a definir\" é escolha editorial: em vez de dar orientação individual no post, a legenda manda a pessoa a quem conhece o caso dela."
+  ],
+  "confirmar": [
+    "NÃO VERIFICADO: a exigência legal de guardar notas fiscais e comprovantes por um prazo (slide 4, terceiro passo) — conferir na página oficial da Receita Federal, registrar a fonte em fontes e só então publicar"
+  ],
+  "revisao": {
+    "data": "2026-10-28",
+    "veredito": "aprovar",
+    "pontos": [
+      "Pendência que bloqueia a publicação (não o texto): confirmar[] tem 1 item aberto, a exigência legal de guardar notas fiscais e comprovantes por um prazo (slide 4, terceiro passo). Para liberar: abra a página oficial e registre em fontes[], ou, se a pessoa preferir, troque \"pelo prazo da lei\" por \"O seu contador diz por quanto tempo.\" e tire o item de confirmar[].",
+      "Sugestão, slide 6, apoio: \"mostra o que é da empresa\" ficou vago; \"mostra só o que é da empresa\" ou \"mostra o resultado da empresa\" diz mais e combina com o título.",
+      "Sugestão, slide 6, texto_alternativo: tem três frases (imagem, título e apoio) e o checklist pede uma ou duas; una título e apoio numa frase só."
+    ]
+  },
+  "status": "texto_aprovado",
+  "historico": [
+    {
+      "data": "2026-10-28",
+      "evento": "Rascunho criado a partir da pauta 1 (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Revisão independente: ajustar",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Ajustes aplicados depois da revisão (8 pontos). Versão anterior em posts/_antes-ajustes-da-revisao/",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Enviado para nova revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Revisão independente: aprovar (3 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Sugestões da revisão aplicadas: a frase do slide 5 virou uma só e a nota de origem da legenda ficou mais precisa. Sem mudança de fato, promessa ou chamada.",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "Texto aprovado pela pessoa: \"Aprovado. A regra do prazo das notas eu confiro antes de publicar.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-10-28",
+      "evento": "artes geradas: 7 slide(s) em 4:5",
+      "por": "gerar-artes"
+    }
+  ],
+  "aprovacao": null,
+  "agendado_para": null,
+  "publicacao": null
+}

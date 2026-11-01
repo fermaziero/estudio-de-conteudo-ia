@@ -1,0 +1,13 @@
+{
+  "versao_esquema": 1,
+  "atualizado_em": "{{DATA}}",
+  "status": "rascunho",
+  "objetivo": "[PREENCHER: uma frase com o que o perfil precisa gerar nos próximos meses]",
+  "pilares": [
+    {"id": "pilar-1", "nome": "[PREENCHER]", "descricao": "[PREENCHER]", "peso": 100}
+  ],
+  "ritmo": {"posts_por_semana": 0, "formatos": {"carrossel": 0, "post_unico": 0, "reel": 0}},
+  "metas": [],
+  "funil": {"atracao": "[PREENCHER]", "relacionamento": "[PREENCHER]", "conversao": "[PREENCHER]"},
+  "movimentos": []
+}

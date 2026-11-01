@@ -1,0 +1,50 @@
+name: Verificar
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    name: Python ${{ matrix.python }} em ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        python: ["3.10", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+
+      - name: Instalar dependências
+        run: python -m pip install -r requirements.txt
+
+      - name: Atalhos das skills em dia
+        run: python -X utf8 ferramentas/sincronizar_atalhos.py --checar
+
+      - name: Nenhum segredo nos arquivos versionados
+        run: python -X utf8 ferramentas/checar_segredos.py
+
+      - name: Marca de exemplo válida
+        run: python -X utf8 skills/configurar-marca/scripts/validar_marca.py --marca exemplo
+
+      - name: Posts de exemplo válidos
+        run: |
+          python -X utf8 skills/criar-conteudo/scripts/validar_posts.py --marca exemplo --lote 2026-11-03-exemplo
+          python -X utf8 skills/criar-conteudo/scripts/validar_posts.py --marca exemplo --lote 2026-09-14-ciclo-anterior
+
+      - name: Autoteste do gerador de artes
+        run: python -X utf8 skills/gerar-artes/scripts/autoteste.py
+
+      - name: Autoteste do publicador (servidor falso local)
+        run: python -X utf8 skills/publicar-instagram/scripts/autoteste.py
+
+      - name: Painel do exemplo (sem gravar)
+        run: python -X utf8 skills/acompanhar-resultados/scripts/montar_painel.py --marca exemplo --simular

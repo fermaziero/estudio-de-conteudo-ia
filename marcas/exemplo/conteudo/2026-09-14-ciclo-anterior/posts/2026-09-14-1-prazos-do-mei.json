@@ -1,0 +1,156 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-1-prazos-do-mei",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Como não esquecer os prazos do MEI e da empresa pequena",
+  "pilar": "educativo",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "atracao",
+  "objetivo": "Quem lê sai com três hábitos para acompanhar as datas da empresa e sabe que pode pedir a lista de datas ao contador.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do tema \"Obrigações e prazos que não podem ser esquecidos\" (marca.md, Temas que domina) e da dor \"medo de multa e de esquecer prazo\" (marca.md, Para quem). Ideia do agente, sem leitura de resultados.",
+  "chamada": "Salve este post para montar a sua lista de datas.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Como não esquecer os prazos do MEI e da empresa pequena?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a pergunta: Como não esquecer os prazos do MEI e da empresa pequena?",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Prazo esquecido vira correria.",
+      "texto": "Imposto, guia e declaração têm data para acontecer. Quando a data passa sem você perceber, o susto vem junto.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Prazo esquecido vira correria. Imposto, guia e declaração têm data para acontecer. Quando a data passa sem você perceber, o susto vem junto.",
+      "fonte_interna": "Orientação editorial da marca, a partir da dor \"medo de multa e de esquecer prazo\" (marca.md, Para quem); sem dado, número ou regra (exemplo fictício)."
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "lista",
+      "titulo": "Três hábitos para não perder as datas",
+      "texto": "",
+      "itens": [
+        "Anote todas as datas em um só lugar, como a agenda do celular.",
+        "Crie um lembrete antes de cada data, e não só no dia.",
+        "Peça ao seu contador a lista de datas da sua empresa."
+      ],
+      "imagem": null,
+      "texto_alternativo": "Slide com lista: Três hábitos para não perder as datas Anote todas as datas em um só lugar, como a agenda do celular; Crie um lembrete antes de cada data, e não só no dia; Peça ao seu contador a lista de datas da sua empresa.",
+      "fonte_interna": "Hábitos de organização escritos para este post (exemplo fictício); não são regra, dado nem prazo."
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Cada empresa tem a sua lista.",
+      "texto": "Quais datas valem para você depende do tipo de empresa e do caso dela. Por isso a lista certa vem de quem conhece a sua empresa.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Cada empresa tem a sua lista. Quais datas valem para você depende do tipo de empresa e do caso dela. Por isso a lista certa vem de quem conhece a sua empresa.",
+      "fonte_interna": "regras.md: cada empresa é um caso; sem orientação individual por post."
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Quem tem a lista na mão não corre atrás.",
+      "texto": "Com as datas anotadas e os lembretes marcados, o prazo vira rotina, e não surpresa.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Quem tem a lista na mão não corre atrás. Com as datas anotadas e os lembretes marcados, o prazo vira rotina, e não surpresa.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 6,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "Salve este post para montar a sua lista de datas.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Último slide com a chamada: Salve este post para montar a sua lista de datas.",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Você sabe quais datas a sua empresa precisa cumprir este mês?\n\nImposto, guia e declaração têm data. Quando uma delas passa sem você perceber, o susto vem junto.\n\nNa prática, três hábitos ajudam:\n- anotar todas as datas em um só lugar;\n- criar um lembrete antes de cada data;\n- pedir ao seu contador a lista de datas da sua empresa.\n\nQuais datas valem para você depende do tipo e do caso da sua empresa, e quem conhece o caso ajuda a montar a lista.\n\nSalve este post para montar a sua lista de datas.",
+  "hashtags": [
+    "contabilidade",
+    "mei",
+    "pequenasempresas"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "Orientação editorial da marca, a partir do tema \"Obrigações e prazos que não podem ser esquecidos\" (marca.md, Temas que domina); sem dado, número ou regra (exemplo fictício).",
+    "\"Quais datas valem para você depende do tipo e do caso da sua empresa\" vem de regras.md: cada empresa é um caso e não há orientação individual por post."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-09-14",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: o texto não traz número, prazo nem regra para conferir em fonte oficial.",
+      "A chamada é uma só, é de atração e é igual no campo, no último slide e no fim da legenda."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-09-14",
+      "evento": "Rascunho criado a partir da pauta 1 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-09-14",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-09-14",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-09-14",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-09-15",
+      "evento": "artes geradas: 6 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-09-15T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-1-prazos-do-mei\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-09-16T18:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-01/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-1-prazos-do-mei",
+    "data": "2026-09-15T20:30:00-03:00",
+    "hash": "4f5ef6e87391bd37e2ed122cd26f6663ff5c89165e028039f3acf1d0e47e9100"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-01",
+    "permalink": "https://exemplo.invalid/p/ficticio-01/",
+    "publicado_em": "2026-09-16T18:00:00-03:00"
+  }
+}

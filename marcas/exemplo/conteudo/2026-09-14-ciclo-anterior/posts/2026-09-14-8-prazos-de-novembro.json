@@ -1,0 +1,156 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-8-prazos-de-novembro",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Novembro chegou: o que organizar na empresa",
+  "pilar": "educativo",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "relacionamento",
+  "objetivo": "Quem lê sai com três tarefas de organização para fazer em novembro e conta qual prazo mais preocupa.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do tema \"Obrigações e prazos que não podem ser esquecidos\" (marca.md, Temas que domina) e da dor \"medo de multa e de esquecer prazo\" (marca.md, Para quem). O post não cita nenhuma data específica.",
+  "chamada": "Conte nos comentários: qual prazo mais preocupa você?",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Novembro chegou: o que organizar na sua empresa agora?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a pergunta: Novembro chegou: o que organizar na sua empresa agora?",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Organizar agora evita correria no fim do ano.",
+      "texto": "Poucas tarefas, feitas com antecedência, deixam o mês mais leve.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Organizar agora evita correria no fim do ano. Poucas tarefas, feitas com antecedência, deixam o mês mais leve.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "lista",
+      "titulo": "Três tarefas para novembro",
+      "texto": "",
+      "itens": [
+        "Separe as notas e os comprovantes dos últimos meses.",
+        "Anote as datas que a sua empresa precisa cumprir até o fim do ano.",
+        "Liste as dúvidas que você quer levar ao contador."
+      ],
+      "imagem": null,
+      "texto_alternativo": "Slide com lista: Três tarefas para novembro Separe as notas e os comprovantes dos últimos meses; Anote as datas que a sua empresa precisa cumprir até o fim do ano; Liste as dúvidas que você quer levar ao contador.",
+      "fonte_interna": "Tarefas de organização escritas para este post (exemplo fictício); não são regra, dado nem prazo."
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Sobre as datas, pergunte ao contador.",
+      "texto": "Quais datas valem para a sua empresa depende do caso dela. A lista certa vem de quem conhece o seu caso.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Sobre as datas, pergunte ao contador. Quais datas valem para a sua empresa depende do caso dela. A lista certa vem de quem conhece o seu caso.",
+      "fonte_interna": "regras.md: cada empresa é um caso; sem orientação individual por post."
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Mês organizado é mês com menos susto.",
+      "texto": "Notas separadas, datas anotadas e dúvidas listadas: na prática, é só isso para começar.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Mês organizado é mês com menos susto. Notas separadas, datas anotadas e dúvidas listadas: na prática, é só isso para começar.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 6,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "Conte nos comentários: qual prazo mais preocupa você?",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Último slide com a chamada: Conte nos comentários: qual prazo mais preocupa você?",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Novembro chegou. O que você já organizou na sua empresa?\n\nQuem quer chegar ao fim do ano com a casa em ordem pode começar agora, com poucas tarefas:\n- separar as notas e os comprovantes dos últimos meses;\n- anotar as datas que a sua empresa precisa cumprir até o fim do ano;\n- listar as dúvidas que você quer levar ao contador.\n\nQuais datas valem para a sua empresa depende do caso dela. A lista certa vem de quem conhece o seu caso.\n\nConte nos comentários: qual prazo mais preocupa você?",
+  "hashtags": [
+    "contabilidade",
+    "prazos",
+    "pequenasempresas"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "Tarefas de organização escritas para o post (exemplo fictício); sem data, prazo ou regra.",
+    "\"Quais datas valem para a sua empresa depende do caso dela\" vem de regras.md: cada empresa é um caso e não há orientação individual por post."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-10-17",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: apesar do tema, o post não cita data, prazo nem obrigação específica.",
+      "A chamada pede comentário, que está em Chamadas disponíveis para a etapa de relacionamento."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-10-16",
+      "evento": "Rascunho criado a partir da pauta 8 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-16",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-17",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-18",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-10-19",
+      "evento": "artes geradas: 6 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-10-19T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-8-prazos-de-novembro\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-10-20T18:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-11/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-8-prazos-de-novembro",
+    "data": "2026-10-19T20:30:00-03:00",
+    "hash": "cc2cb26b973faf599946310b4ede8c7202d391ee71ad66eeb03314ab1a46e8d7"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-11",
+    "permalink": "https://exemplo.invalid/p/ficticio-11/",
+    "publicado_em": "2026-10-20T18:00:00-03:00"
+  }
+}

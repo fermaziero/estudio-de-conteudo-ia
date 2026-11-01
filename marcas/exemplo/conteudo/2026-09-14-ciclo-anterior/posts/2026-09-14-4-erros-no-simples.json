@@ -1,0 +1,157 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-4-erros-no-simples",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Quatro erros que complicam a vida de quem está no Simples",
+  "pilar": "educativo",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "atracao",
+  "objetivo": "Quem lê reconhece quatro hábitos que complicam a rotina da empresa pequena e leva o post para quem precisa ver.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do tema \"Impostos do dia a dia do MEI e do Simples Nacional\" (marca.md, Temas que domina) e das dores \"não entender a guia de imposto que chega\" e \"contador que só aparece perto do prazo\" (marca.md, Para quem).",
+  "chamada": "Mande este post para quem tem empresa pequena.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Quatro erros que complicam a vida de quem está no Simples",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a frase: Quatro erros que complicam a vida de quem está no Simples",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "São hábitos do dia a dia, não conta difícil.",
+      "texto": "Você não precisa ser especialista em imposto para evitar estes quatro. Basta mudar um hábito de cada vez.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: São hábitos do dia a dia, não conta difícil. Você não precisa ser especialista em imposto para evitar estes quatro. Basta mudar um hábito de cada vez.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "cartoes",
+      "titulo": "Quatro erros para evitar",
+      "texto": "",
+      "itens": [
+        "Deixar as notas e os comprovantes para o último dia.",
+        "Não avisar o contador de uma venda ou compra fora do comum.",
+        "Pagar uma guia sem conferir o que está escrito nela.",
+        "Esperar o prazo apertar para tirar uma dúvida."
+      ],
+      "imagem": null,
+      "texto_alternativo": "Cartões: Quatro erros para evitar Deixar as notas e os comprovantes para o último dia; Não avisar o contador de uma venda ou compra fora do comum; Pagar uma guia sem conferir o que está escrito nela; Esperar o prazo apertar para tirar uma dúvida.",
+      "fonte_interna": "Exemplos criados para este post a partir das dores da marca (marca.md, Para quem); não são dado nem caso real (exemplo fictício)."
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Um hábito por vez já ajuda.",
+      "texto": "Escolha o erro que mais parece com a sua rotina e comece por ele esta semana.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Um hábito por vez já ajuda. Escolha o erro que mais parece com a sua rotina e comece por ele esta semana.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Rotina organizada pesa menos no fim do mês.",
+      "texto": "Anotar, avisar, conferir e perguntar cedo evita a correria. Na prática, é isso.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Rotina organizada pesa menos no fim do mês. Anotar, avisar, conferir e perguntar cedo evita a correria. Na prática, é isso.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 6,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "Mande este post para quem tem empresa pequena.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Último slide com a chamada: Mande este post para quem tem empresa pequena.",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Quatro hábitos que complicam a vida de quem tem empresa no Simples. Você reconhece algum?\n\nNa prática, são estes:\n- deixar as notas e os comprovantes para o último dia;\n- não avisar o contador de uma venda ou compra fora do comum;\n- pagar uma guia sem conferir o que está escrito nela;\n- esperar o prazo apertar para tirar uma dúvida.\n\nMudar um hábito por vez já ajuda. O que vale para o seu caso, o seu contador confirma.\n\nMande este post para quem tem empresa pequena.",
+  "hashtags": [
+    "contabilidade",
+    "simplesnacional",
+    "pequenasempresas"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "Exemplos de hábitos escritos para o post a partir das dores da marca (marca.md, Para quem); sem dado, número ou regra (exemplo fictício).",
+    "\"O que vale para o seu caso, o seu contador confirma\" vem de regras.md: cada empresa é um caso e não há orientação individual por post."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-09-26",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: os quatro erros são hábitos de rotina, sem lei, prazo, alíquota ou valor.",
+      "A chamada pede compartilhar, que está em Chamadas disponíveis para a etapa de atração."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-09-25",
+      "evento": "Rascunho criado a partir da pauta 4 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-09-25",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-09-26",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-09-27",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-09-28",
+      "evento": "artes geradas: 6 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-09-28T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-4-erros-no-simples\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-09-29T18:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-05/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-4-erros-no-simples",
+    "data": "2026-09-28T20:30:00-03:00",
+    "hash": "c5f7ea0b03fe151eb49962d8d2326753e552f23abe41f922f10e43bff3707a69"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-05",
+    "permalink": "https://exemplo.invalid/p/ficticio-05/",
+    "publicado_em": "2026-09-29T18:00:00-03:00"
+  }
+}

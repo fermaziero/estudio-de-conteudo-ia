@@ -1,0 +1,157 @@
+{
+  "versao_esquema": 1,
+  "id": "2026-09-14-7-antes-de-abrir-a-empresa",
+  "lote": "2026-09-14-ciclo-anterior",
+  "titulo_interno": "Quatro perguntas antes de abrir uma empresa",
+  "pilar": "educativo",
+  "formato": "carrossel",
+  "proporcao": "4:5",
+  "etapa_funil": "atracao",
+  "objetivo": "Quem está pensando em abrir uma empresa sai com quatro perguntas para responder antes de procurar o contador e salva o post.",
+  "de_onde_vem": "Pauta do ciclo anterior (exemplo fictício). Vem do tema \"Abrir, mudar ou fechar uma empresa\" (marca.md, Temas que domina), do serviço de abertura de empresa (marca.md, O que oferece, item 2) e do público \"autônomos que estão se formalizando\" (marca.md, Para quem).",
+  "chamada": "Salve este post antes de abrir a sua empresa.",
+  "slides": [
+    {
+      "n": 1,
+      "papel": "capa",
+      "layout": "capa",
+      "titulo": "Quatro perguntas para responder antes de abrir uma empresa",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Capa em fundo claro com a frase: Quatro perguntas para responder antes de abrir uma empresa",
+      "fonte_interna": ""
+    },
+    {
+      "n": 2,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Abrir uma empresa é decidir, não só preencher papel.",
+      "texto": "Antes dos documentos, vêm as escolhas sobre o negócio. Pensar nelas cedo deixa a conversa com o contador mais clara.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Abrir uma empresa é decidir, não só preencher papel. Antes dos documentos, vêm as escolhas sobre o negócio. Pensar nelas cedo deixa a conversa com o contador mais clara.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 3,
+      "papel": "conteudo",
+      "layout": "cartoes",
+      "titulo": "As quatro perguntas",
+      "texto": "",
+      "itens": [
+        "O que a empresa vai vender?",
+        "Quem vai comprar, e como vai pagar?",
+        "Quem vai cuidar da papelada todo mês?",
+        "Quanto tempo você tem para dedicar à empresa?"
+      ],
+      "imagem": null,
+      "texto_alternativo": "Cartões: As quatro perguntas O que a empresa vai vender?; Quem vai comprar, e como vai pagar?; Quem vai cuidar da papelada todo mês?; Quanto tempo você tem para dedicar à empresa?.",
+      "fonte_interna": "Perguntas escritas para este post a partir do tema \"Abrir, mudar ou fechar uma empresa\" (marca.md, Temas que domina); não são regra nem dado (exemplo fictício)."
+    },
+    {
+      "n": 4,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Não precisa ter todas as respostas.",
+      "texto": "Escreva o que você já sabe e deixe o resto em aberto. Dúvida anotada é ponto de partida para a conversa com o contador.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Não precisa ter todas as respostas. Escreva o que você já sabe e deixe o resto em aberto. Dúvida anotada é ponto de partida para a conversa com o contador.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 5,
+      "papel": "conteudo",
+      "layout": "texto",
+      "titulo": "Quem responde antes começa com menos dúvida.",
+      "texto": "Quatro perguntas, um caderno e uma conversa: é o primeiro passo, e dá para dar hoje.",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Slide de texto: Quem responde antes começa com menos dúvida. Quatro perguntas, um caderno e uma conversa: é o primeiro passo, e dá para dar hoje.",
+      "fonte_interna": "Orientação editorial da marca (exemplo fictício); sem dado, número ou regra."
+    },
+    {
+      "n": 6,
+      "papel": "cta",
+      "layout": "cta",
+      "titulo": "Salve este post antes de abrir a sua empresa.",
+      "texto": "",
+      "itens": [],
+      "imagem": null,
+      "texto_alternativo": "Último slide com a chamada: Salve este post antes de abrir a sua empresa.",
+      "fonte_interna": ""
+    }
+  ],
+  "roteiro": null,
+  "legenda": "Vai abrir uma empresa? Responda quatro perguntas antes de começar.\n\nAbrir uma empresa é decidir sobre o negócio, e não só preencher papel. Quatro perguntas ajudam a organizar a ideia:\n- o que a empresa vai vender;\n- quem vai comprar e como vai pagar;\n- quem vai cuidar da papelada todo mês;\n- quanto tempo você tem para dedicar à empresa.\n\nNão precisa ter todas as respostas. Dúvida anotada vira ponto de partida para a conversa com o contador. Anotar as perguntas ajuda a não esquecer nada na hora de conversar.\n\nSalve este post antes de abrir a sua empresa.",
+  "hashtags": [
+    "contabilidade",
+    "abrirempresa",
+    "empreendedorismo"
+  ],
+  "fontes": [],
+  "fontes_legenda_internas": [
+    "Perguntas escritas para o post a partir do tema \"Abrir, mudar ou fechar uma empresa\" (marca.md, Temas que domina); sem dado, número ou regra (exemplo fictício).",
+    "marca.md, O que oferece, item 2: abertura de empresa. O post não descreve etapas legais da abertura."
+  ],
+  "confirmar": [],
+  "revisao": {
+    "data": "2026-10-10",
+    "veredito": "aprovar",
+    "pontos": [
+      "Sem pendências: o post não cita documento, tipo de empresa, prazo nem custo da abertura.",
+      "A chamada pede salvar, que está em Chamadas disponíveis para a etapa de atração."
+    ]
+  },
+  "status": "publicado",
+  "historico": [
+    {
+      "data": "2026-10-09",
+      "evento": "Rascunho criado a partir da pauta 7 do ciclo anterior (exemplo fictício)",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-09",
+      "evento": "Enviado para revisão independente",
+      "por": "criar-conteudo"
+    },
+    {
+      "data": "2026-10-10",
+      "evento": "Revisão independente: aprovar (2 pontos)",
+      "por": "revisar-conteudo"
+    },
+    {
+      "data": "2026-10-11",
+      "evento": "Texto aprovado pela pessoa: \"Pode seguir com as artes.\" (frase fictícia)",
+      "por": "pessoa"
+    },
+    {
+      "data": "2026-10-12",
+      "evento": "artes geradas: 6 slide(s) em 4:5 (as artes deste ciclo não ficam no repositório)",
+      "por": "gerar-artes"
+    },
+    {
+      "data": "2026-10-12T20:30:00-03:00",
+      "evento": "aprovado: \"pode publicar 2026-09-14-7-antes-de-abrir-a-empresa\" (frase fictícia)",
+      "por": "publicar-instagram"
+    },
+    {
+      "data": "2026-10-13T18:00:00-03:00",
+      "evento": "publicado: https://exemplo.invalid/p/ficticio-09/",
+      "por": "publicar-instagram"
+    }
+  ],
+  "aprovacao": {
+    "por": "pessoa responsável pela marca (fictícia)",
+    "frase": "pode publicar 2026-09-14-7-antes-de-abrir-a-empresa",
+    "data": "2026-10-12T20:30:00-03:00",
+    "hash": "b5edebeffe70377ad3c231175a8ea3c0f9ffaa3d1ac010cc055149dd16e62572"
+  },
+  "agendado_para": null,
+  "publicacao": {
+    "media_id": "ficticio-09",
+    "permalink": "https://exemplo.invalid/p/ficticio-09/",
+    "publicado_em": "2026-10-13T18:00:00-03:00"
+  }
+}
